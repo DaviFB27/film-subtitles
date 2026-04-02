@@ -1,0 +1,6785 @@
+1
+00:00:51,000 --> 00:00:51,208
+M
+
+2
+00:00:51,208 --> 00:00:51,416
+MO
+
+3
+00:00:51,416 --> 00:00:51,624
+MOV
+
+4
+00:00:51,624 --> 00:00:51,832
+MOVI
+
+5
+00:00:51,832 --> 00:00:52,040
+MOVIM
+
+6
+00:00:52,040 --> 00:00:52,248
+MOVIME
+
+7
+00:00:52,248 --> 00:00:52,456
+MOVIMEN
+
+8
+00:00:52,456 --> 00:00:52,664
+MOVIMENT
+
+9
+00:00:52,664 --> 00:00:52,872
+MOVIMENTO
+
+10
+00:00:52,872 --> 00:00:53,080
+MOVIMENTO C
+
+11
+00:00:53,080 --> 00:00:53,288
+MOVIMENTO CI
+
+12
+00:00:53,288 --> 00:00:53,496
+MOVIMENTO CIN
+
+13
+00:00:53,496 --> 00:00:53,704
+MOVIMENTO CINE
+
+14
+00:00:53,704 --> 00:00:53,912
+MOVIMENTO CINEM
+
+15
+00:00:53,912 --> 00:00:54,120
+MOVIMENTO CINEMA
+
+16
+00:00:54,120 --> 00:00:54,328
+MOVIMENTO CINEMA L
+
+17
+00:00:54,328 --> 00:00:54,536
+MOVIMENTO CINEMA LI
+
+18
+00:00:54,536 --> 00:00:54,744
+MOVIMENTO CINEMA LIV
+
+19
+00:00:54,744 --> 00:00:54,952
+MOVIMENTO CINEMA LIVR
+
+20
+00:00:54,952 --> 00:00:55,160
+MOVIMENTO CINEMA LIVRE
+
+21
+00:00:55,160 --> 00:00:55,368
+MOVIMENTO CINEMA LIVRE
+.
+
+22
+00:00:55,368 --> 00:00:55,576
+MOVIMENTO CINEMA LIVRE
+..
+
+23
+00:00:55,576 --> 00:00:55,784
+MOVIMENTO CINEMA LIVRE
+...
+
+24
+00:00:55,784 --> 00:00:55,992
+MOVIMENTO CINEMA LIVRE
+...:
+
+25
+00:00:55,992 --> 00:00:56,200
+MOVIMENTO CINEMA LIVRE
+...::
+
+26
+00:00:56,200 --> 00:00:56,408
+MOVIMENTO CINEMA LIVRE
+...:::
+
+27
+00:00:56,408 --> 00:00:56,616
+MOVIMENTO CINEMA LIVRE
+...::: A
+
+28
+00:00:56,616 --> 00:00:56,824
+MOVIMENTO CINEMA LIVRE
+...::: A P
+
+29
+00:00:56,824 --> 00:00:57,032
+MOVIMENTO CINEMA LIVRE
+...::: A P R
+
+30
+00:00:57,032 --> 00:00:57,240
+MOVIMENTO CINEMA LIVRE
+...::: A P R E
+
+31
+00:00:57,240 --> 00:00:57,448
+MOVIMENTO CINEMA LIVRE
+...::: A P R E S
+
+32
+00:00:57,448 --> 00:00:57,656
+MOVIMENTO CINEMA LIVRE
+...::: A P R E S E
+
+33
+00:00:57,656 --> 00:00:57,864
+MOVIMENTO CINEMA LIVRE
+...::: A P R E S E N
+
+34
+00:00:57,864 --> 00:00:58,072
+MOVIMENTO CINEMA LIVRE
+...::: A P R E S E N T
+
+35
+00:00:58,072 --> 00:00:58,280
+MOVIMENTO CINEMA LIVRE
+...::: A P R E S E N T A
+
+36
+00:00:58,280 --> 00:00:58,488
+MOVIMENTO CINEMA LIVRE
+...::: A P R E S E N T A :
+
+37
+00:00:58,488 --> 00:00:58,696
+MOVIMENTO CINEMA LIVRE
+...::: A P R E S E N T A ::
+
+38
+00:00:58,696 --> 00:00:58,904
+MOVIMENTO CINEMA LIVRE
+...::: A P R E S E N T A :::
+
+39
+00:00:58,904 --> 00:00:59,112
+MOVIMENTO CINEMA LIVRE
+...::: A P R E S E N T A :::.
+
+40
+00:00:59,112 --> 00:00:59,320
+MOVIMENTO CINEMA LIVRE
+...::: A P R E S E N T A :::..
+
+41
+00:00:59,320 --> 00:01:02,000
+MOVIMENTO CINEMA LIVRE
+...::: A P R E S E N T A :::...
+
+42
+00:01:02,480 --> 00:01:07,440
+<b>“8 E MEIO”</b>
+
+43
+00:03:35,440 --> 00:03:37,360
+Advogado, eu o peguei.
+
+44
+00:03:42,400 --> 00:03:44,320
+Desça! Desça, vamos!
+
+45
+00:03:50,410 --> 00:03:52,370
+Definitivamente para baixo.
+
+46
+00:03:57,420 --> 00:04:01,380
+Desculpe a invasão a esta hora
+da manhã. Como vai?
+
+47
+00:04:01,420 --> 00:04:05,380
+Sou seu grande admirador. É um
+grande prazer conhecê-lo.
+
+48
+00:04:05,420 --> 00:04:07,380
+Com licença.
+
+49
+00:04:07,430 --> 00:04:10,390
+Posso usar a sua máquina
+de escrever?
+
+50
+00:04:10,430 --> 00:04:15,350
+Arregace a manga. Mantenha
+o braço relaxado.
+
+51
+00:04:15,390 --> 00:04:18,350
+- Quantos anos tem, senhor?
+-43.
+
+52
+00:04:18,390 --> 00:04:20,350
+Pronto, sente-se.
+
+53
+00:04:21,400 --> 00:04:25,360
+Então, o que prepara para nós?
+Mais um filme sem esperança?
+
+54
+00:04:25,400 --> 00:04:28,360
+- É o seu primeiro tratamento?
+- Sim.
+
+55
+00:04:30,400 --> 00:04:34,360
+- Respire fundo.
+- Entre!
+
+56
+00:04:36,410 --> 00:04:39,370
+- Desculpe. Voltarei mais tarde.
+- Não, pode entrar.
+
+57
+00:04:39,410 --> 00:04:41,370
+Respire.
+
+58
+00:04:42,410 --> 00:04:44,370
+Mais fundo.
+
+59
+00:04:48,420 --> 00:04:50,340
+Incomoda-se se eu fumar?
+
+60
+00:04:53,420 --> 00:04:55,340
+Tussa.
+
+61
+00:04:57,430 --> 00:04:59,340
+Respire.
+
+62
+00:05:00,430 --> 00:05:03,350
+- Já o leu?
+- Sim.
+
+63
+00:05:03,430 --> 00:05:05,350
+Respire.
+
+64
+00:05:07,440 --> 00:05:09,310
+E o que achou?
+
+65
+00:05:11,440 --> 00:05:15,320
+Fiz algumas anotações, mas
+falaremos disto depois.
+
+66
+00:05:16,400 --> 00:05:20,320
+O organismo está um tanto
+debilitado. Pode se vestir.
+
+67
+00:05:21,400 --> 00:05:26,330
+Bela garota, americana, não é?
+Tem muita coisa boa aqui.
+
+68
+00:05:26,410 --> 00:05:29,330
+Verá como o tratamento
+fará efeito.
+
+69
+00:05:29,410 --> 00:05:34,330
+Anote, senhorita: diariamente, em jejum,
+300 g de água benta...
+
+70
+00:05:34,420 --> 00:05:38,380
+dividida em três porções, tomadas
+de 15 em 15 minutos.
+
+71
+00:05:38,420 --> 00:05:42,390
+Dia sim, dia não, banhos de
+lama de 20 minutos.
+
+72
+00:05:42,420 --> 00:05:46,340
+Depois, banho em água medicinal
+de acordo com a receita.
+
+73
+00:05:46,380 --> 00:05:50,350
+- Vou esperá-lo na fonte.
+- Certo, obrigado.
+
+74
+00:05:50,390 --> 00:05:55,350
+Após a primeira semana, 2 dias de
+pausa em todo o tratamento.
+
+75
+00:09:02,300 --> 00:09:04,260
+Senhor?
+
+76
+00:09:05,310 --> 00:09:07,270
+O copo, senhor!
+
+77
+00:09:18,320 --> 00:09:22,320
+- Estou aqui! Quer falar do filme?
+- Claro.
+
+78
+00:09:22,360 --> 00:09:28,330
+Então depois me dirá se o seu
+produtor deve ver o meu relatório.
+
+79
+00:09:28,370 --> 00:09:31,330
+Sinceramente, não quero causar
+aborrecimentos ao senhor.
+
+80
+00:09:31,370 --> 00:09:34,330
+Não se preocupe, eu o
+chamei aqui.
+
+81
+00:09:34,370 --> 00:09:38,330
+Bem, à primeira vista, vê-se que a
+falta de uma idéia problemática...
+
+82
+00:09:38,380 --> 00:09:41,340
+ou, se quiser, de uma premissa
+filosófica...
+
+83
+00:09:41,380 --> 00:09:43,210
+Vamos sentar?
+
+84
+00:09:43,340 --> 00:09:46,220
+transforma o filme numa suíte de
+episódios totalmente gratuitos...
+
+85
+00:09:46,340 --> 00:09:51,220
+e até divertidos, talvez, na medida
+do seu realismo ambíguo.
+
+86
+00:09:51,300 --> 00:09:55,220
+Perguntamo-nos o que os autores
+realmente querem.
+
+87
+00:09:55,310 --> 00:09:59,230
+Querem nos fazer pensar?
+Querem nos meter medo?
+
+88
+00:09:59,310 --> 00:10:04,230
+Tal jogo revela, de início, tanta
+pobreza de inspiração poética!
+
+89
+00:10:04,310 --> 00:10:09,240
+Perdoe-me, mas esta pode ser a
+demonstração mais patética,...
+
+90
+00:10:09,320 --> 00:10:12,240
+de que o cinema está
+atrasado 50 anos...
+
+91
+00:10:12,320 --> 00:10:15,280
+em relação a todas as
+outras artes.
+
+92
+00:10:15,320 --> 00:10:18,280
+O roteiro, nem vale como
+obra de vanguarda,...
+
+93
+00:10:18,370 --> 00:10:22,290
+embora tenha todas as deficiências
+do vanguardismo.
+
+94
+00:10:22,370 --> 00:10:26,290
+Fiz algumas anotações, mas não
+acho que serão úteis.
+
+95
+00:10:28,380 --> 00:10:33,300
+Não entendo porque pensou em
+mim para uma colaboração,...
+
+96
+00:10:33,380 --> 00:10:36,300
+que, francamente, não vejo como
+poderia se concretizar.
+
+97
+00:10:37,380 --> 00:10:40,300
+Não, pelo contrário, o senhor
+será utilíssimo.
+
+98
+00:10:40,390 --> 00:10:44,260
+Veja bem, eu quero fazer
+este filme.
+
+99
+00:10:44,390 --> 00:10:49,270
+Só adiei por 15 dias o início
+das filmagens, porque...
+
+100
+00:10:54,360 --> 00:10:57,280
+Mezzabotta!
+Com licença.
+
+101
+00:11:01,360 --> 00:11:05,280
+- Mezzabotta! Mario! Você aqui?
+- Guido!
+
+102
+00:11:05,370 --> 00:11:07,280
+Veja só!
+
+103
+00:11:09,370 --> 00:11:12,330
+O que houve com você?
+O que você tem? Ora?
+
+104
+00:11:12,370 --> 00:11:15,330
+- Como vai, Guidone?
+- Bem.
+
+105
+00:11:15,370 --> 00:11:19,340
+- Está encanecido, velho Snàporaz!
+- Olha quem fala!
+
+106
+00:11:19,420 --> 00:11:22,340
+Está bebendo essa droga?
+Faz mal sabia?
+
+107
+00:11:22,420 --> 00:11:25,340
+Disseram que meu fígado... E você,
+que tratamento faz?
+
+108
+00:11:26,430 --> 00:11:33,350
+- Espere um pouco. Gloria!
+- A sua filha? Como cresceu!
+
+109
+00:11:33,430 --> 00:11:35,350
+Não é minha filha.
+
+110
+00:11:35,430 --> 00:11:40,350
+É horrível. A abelha cruel sugou toda
+a vida destas pobres flores.
+
+111
+00:11:40,440 --> 00:11:44,270
+Com licença, querida,
+este é meu amigo...
+
+112
+00:11:44,320 --> 00:11:46,280
+Desculpe. Segure meus
+sapatos.
+
+113
+00:11:46,320 --> 00:11:49,280
+- Gloria. Gloria Morin.
+- Prazer.
+
+114
+00:11:49,320 --> 00:11:51,280
+- Como vai?
+- Bem, obrigado.
+
+115
+00:11:51,320 --> 00:11:55,280
+Sei tudo sobre o senhor. Puppi
+sempre fala a seu respeito.
+
+116
+00:11:55,330 --> 00:11:59,290
+Até brigamos, porque eu julguei
+severamente o seu último filme.
+
+117
+00:11:59,330 --> 00:12:04,290
+Não é verdade, você gostou multo!
+Vamos beber algo?
+
+118
+00:12:07,340 --> 00:12:10,340
+- E você está só? A sua esposa...
+- Não, estou sozinho.
+
+119
+00:12:10,370 --> 00:12:14,340
+Melhor assim! De modo geral,
+quero dizer.
+
+120
+00:12:14,380 --> 00:12:19,350
+Soube sobre mim e Tina? Estamos
+esperando a anulação.
+
+121
+00:12:19,390 --> 00:12:23,350
+Por isso ela está aqui.
+Somos namorados.
+
+122
+00:12:23,390 --> 00:12:25,350
+Felicidades.
+
+123
+00:12:25,390 --> 00:12:30,360
+E então, Guidone, prepara algo? Este
+lugar é ótimo para pensar.
+
+124
+00:12:30,400 --> 00:12:34,360
+Com licença, este é Daumier,
+o escritor. E esta é...
+
+125
+00:12:34,400 --> 00:12:36,320
+- Gloria.
+- Gloria Morin.
+
+126
+00:12:36,400 --> 00:12:39,320
+Muito prazer. Admiro o
+seu trabalho.
+
+127
+00:12:39,410 --> 00:12:45,240
+Estou lisonjeado. É atriz? Já vi a
+sua foto em algum lugar.
+
+128
+00:12:45,330 --> 00:12:49,250
+Atriz? Sim. Essa é a minha
+aspiração.
+
+129
+00:12:49,330 --> 00:12:52,250
+Para ser sincera, desejo
+Imensamente sê-lo...
+
+130
+00:12:52,330 --> 00:12:55,250
+mas só desejo por enquanto.
+
+131
+00:12:55,340 --> 00:12:58,250
+Ela é formada em filosofia.
+Sou Mario Mezzabotta.
+
+132
+00:12:58,340 --> 00:13:02,260
+Formada, não. Estou escrevendo a
+minha tese, é diferente.
+
+133
+00:13:02,340 --> 00:13:05,300
+- E qual é o tema?
+- É um tema difícil.
+
+134
+00:13:05,340 --> 00:13:09,310
+A solidão do homem moderno no
+teatro contemporâneo.
+
+135
+00:13:09,390 --> 00:13:11,310
+Tese interessante, não,
+professor?
+
+136
+00:13:11,390 --> 00:13:16,310
+<i>E as aparições caprichosas dessa
+garota da fonte, o que significam?</i>
+
+137
+00:13:16,390 --> 00:13:20,310
+<i>Uma oferta de pureza, de calor,
+ao seu protagonista?</i>
+
+138
+00:13:20,400 --> 00:13:23,320
+<i>De tantos símbolos que abundam na
+sua história, este é o pior...</i>
+
+139
+00:13:23,400 --> 00:13:25,320
+<i>embebido de...</i>
+
+140
+00:14:13,360 --> 00:14:15,280
+Não chegou.
+Melhor assim.
+
+141
+00:14:36,340 --> 00:14:39,260
+- Como vai?
+- Mais ou menos.
+
+142
+00:14:39,340 --> 00:14:42,340
+- Tem algum conhecido aqui?
+- Não. Por quê tantas malas?
+
+143
+00:14:42,380 --> 00:14:46,220
+Só 5 vestidos. Os longos ocupam
+muito espaço.
+
+144
+00:14:46,260 --> 00:14:50,230
+- Trouxe um tão lindo! Pegou tudo?
+- Sim.
+
+145
+00:14:50,270 --> 00:14:54,230
+Carla, aqui todos dormem à noite.
+Não acontece nada.
+
+146
+00:14:54,270 --> 00:14:57,270
+Mas é uma estância tão na moda!
+Deve haver algum desfile,...
+
+147
+00:14:57,310 --> 00:15:01,280
+algum lugar perto do nosso hotel,
+não? Comportou-se?
+
+148
+00:15:01,320 --> 00:15:04,280
+Sim, mas preciso te dizer
+uma coisa.
+
+149
+00:15:04,320 --> 00:15:08,280
+Não há vagas no meu hotel. Além
+disso, lá todos me conhecem.
+
+150
+00:15:08,320 --> 00:15:13,290
+Pensei em deixar você em outro lugar.
+É um hotel ótimo e bonito.
+
+151
+00:15:13,330 --> 00:15:16,290
+- Como assim?
+- E ele, como vai?
+
+152
+00:15:16,330 --> 00:15:18,290
+Muito bem?
+
+153
+00:15:20,340 --> 00:15:25,250
+- Por quê está pálido assim?
+- Viu? O hotel é aqui em frente.
+
+154
+00:15:27,300 --> 00:15:30,260
+Senhora, tem gente aqui!
+
+155
+00:15:30,300 --> 00:15:34,260
+Como falei, não é luxuoso,
+mas é multo tranqüilo.
+
+156
+00:15:34,300 --> 00:15:36,260
+Se tiver fome, mandarei sanduíches
+para o seu quarto.
+
+157
+00:15:36,310 --> 00:15:39,270
+Aqui é meio melancólico, não?
+
+158
+00:15:39,310 --> 00:15:43,190
+Não, é pitoresco. E eu estou com
+fome. Você comeu, eu não.
+
+159
+00:15:43,270 --> 00:15:46,190
+Bom dia, engenheiro!
+Bom dia, senhora.
+
+160
+00:15:46,270 --> 00:15:52,240
+A suíte está pronta. Fique tranqüilo,
+ela está em casa.
+
+161
+00:15:52,280 --> 00:15:55,240
+Tem algo para comer?
+
+162
+00:15:55,320 --> 00:15:58,240
+- Onde é a toalete?
+- Ali. Vou preparar algo.
+
+163
+00:16:00,330 --> 00:16:05,250
+O trem deixa as mãos imundas!
+Está feliz por eu estar aqui?
+
+164
+00:16:05,330 --> 00:16:08,250
+- Claro.
+- Muito feliz, ou meio feliz?
+
+165
+00:16:08,330 --> 00:16:10,250
+Felicíssimo.
+
+166
+00:16:11,340 --> 00:16:16,210
+Que cheirinho bom! Sabe, Guido, achei
+que este veludo ia amassar.
+
+167
+00:16:16,340 --> 00:16:19,220
+- É mesmo? Muito bem.
+- Mas não fez nenhuma prega!
+
+168
+00:16:27,310 --> 00:16:30,230
+Mas você nem disse se gostou
+dele. Gostou, Guido?
+
+169
+00:16:30,310 --> 00:16:33,230
+Que bela mulher, engenheiro!
+
+170
+00:16:36,320 --> 00:16:39,230
+É elegante! O que é aquilo na
+cabeça dela? Pelúcia?
+
+171
+00:16:39,320 --> 00:16:41,240
+Pelúcia, pelúcia.
+
+172
+00:16:43,240 --> 00:16:47,240
+Nem imagina o quanto procurei este
+vestido! Estava desesperada.
+
+173
+00:16:47,280 --> 00:16:51,250
+Mas você me conhece, quando
+cismo com uma coisa...
+
+174
+00:16:53,290 --> 00:16:57,250
+Li uma história tão legal do Pato
+Donald! Tinha um dinossauro...
+
+175
+00:16:57,290 --> 00:17:01,250
+- Aqui está a bela bundinha!
+- Comporte-se!
+
+176
+00:17:01,300 --> 00:17:06,260
+Guido, quieto! O que quer fazer
+afinal? Comportou-se mesmo?
+
+177
+00:17:06,300 --> 00:17:11,220
+- Como assim?
+- A bela bundinha está com fome.
+
+178
+00:17:11,300 --> 00:17:16,220
+Esqueci, a aliança! Guido, sobre
+aquilo que você me prometeu...
+
+179
+00:17:17,270 --> 00:17:23,230
+O quê? Ela vai falar de novo do
+marido, quer ver só?
+
+180
+00:17:23,270 --> 00:17:26,230
+Acha que não. Você vai ver,
+velho Snàporaz.
+
+181
+00:17:27,280 --> 00:17:30,240
+Pobre Luigi, não está nada feliz.
+
+182
+00:17:30,280 --> 00:17:34,240
+Meu marido não é uma pessoa
+de iniciativa, sabe?
+
+183
+00:17:34,280 --> 00:17:39,240
+Ele fica deprimido. Não que seja
+burro. É muito inteligente.
+
+184
+00:17:40,290 --> 00:17:42,250
+Nossa, que calor!
+
+185
+00:17:43,290 --> 00:17:49,210
+Ele sabe toda a história de Roma de
+cor. Só precisa de um impulso.
+
+186
+00:17:49,300 --> 00:17:52,210
+- Continua no pólo petroquímico...
+- É mesmo?
+
+187
+00:17:52,300 --> 00:17:59,220
+Largue essa bolsa, vai quebrá-la!
+Gosto dela, foi presente dele.
+
+188
+00:18:00,300 --> 00:18:05,180
+Por quê não arruma um emprego
+para ele? Conhece tantas pessoas!
+
+189
+00:18:05,310 --> 00:18:08,190
+Você já me prometeu tantas vezes!
+Guido!
+
+190
+00:18:08,310 --> 00:18:11,190
+Até já sonhei com isso,
+imagine.
+
+191
+00:18:12,270 --> 00:18:16,190
+Só que ele ficou doido e
+matou nós dois.
+
+192
+00:18:17,280 --> 00:18:21,200
+- Matou quem?
+- Você e eu! Sabe onde?
+
+193
+00:18:22,280 --> 00:18:25,200
+Naquele beco de Via Delia
+Croce, onde comprei...
+
+194
+00:18:25,280 --> 00:18:28,200
+a gravata que sua mulher
+deu igual depois...
+
+195
+00:18:28,290 --> 00:18:32,210
+e, quando você usava, eu nunca
+sabia se era a dela ou a minha.
+
+196
+00:18:33,290 --> 00:18:37,210
+Estávamos ali, numa maca,
+abraçados, nus,...
+
+197
+00:18:38,300 --> 00:18:42,260
+e ele chegou e matou os dois
+com uma vassoura.
+
+198
+00:18:47,260 --> 00:18:51,180
+Feche mais. Isso mesmo,
+assim.
+
+199
+00:18:52,270 --> 00:18:57,190
+Agora saia, e depois entre como se
+fosse o quarto errado...
+
+200
+00:18:57,270 --> 00:19:01,150
+- e eu um desconhecido.
+- Que legal! Nunca tentamos isso.
+
+201
+00:19:01,270 --> 00:19:03,150
+Pare, deixe-me olhar você.
+
+202
+00:19:04,230 --> 00:19:07,150
+Não, precisa de um pouco mais
+de maquiagem...
+
+203
+00:19:10,240 --> 00:19:13,160
+- Mais o quê?
+- Mais de porca.
+
+204
+00:19:15,240 --> 00:19:17,160
+Dê-me o lápis de sobrancelha.
+
+205
+00:19:22,250 --> 00:19:24,170
+- Quieta.
+- Este lustre é bonito.
+
+206
+00:19:24,250 --> 00:19:27,170
+- Quero um igual em casa.
+- Quieta, vamos!
+
+207
+00:19:27,250 --> 00:19:30,170
+- Como se chama este hotel?
+- Hotel da Ferrovia.
+
+208
+00:19:30,260 --> 00:19:33,220
+Escreverei para o meu marido,
+assim ele responde logo.
+
+209
+00:19:33,260 --> 00:19:36,220
+Precisa ver que cartas lindas!
+Depois deixo você ler.
+
+210
+00:19:36,300 --> 00:19:40,220
+Sim, mas fique parada!
+Faça cara de porca.
+
+211
+00:19:43,230 --> 00:19:47,190
+- Agora saia, vamos!
+- Então vou ter de representar?
+
+212
+00:19:47,230 --> 00:19:49,190
+- Eu lá sou uma de suas atrizes?
+- Saia!
+
+213
+00:19:49,230 --> 00:19:56,200
+Acha que não sou capaz? Pois eu não
+gostaria de levar aquela vida.
+
+214
+00:19:56,240 --> 00:20:00,160
+- Eu gosto de ficar em casa.
+- Vamos, saia, eu vou dormir.
+
+215
+00:20:04,200 --> 00:20:08,160
+Se eu fizesse isso de verdade,
+você ficaria com ciúmes?
+
+216
+00:20:08,210 --> 00:20:11,170
+Por quê, você faria de verdade?
+
+217
+00:20:12,210 --> 00:20:14,170
+Quem sabe?
+
+218
+00:20:16,210 --> 00:20:19,170
+<i>- Precisa de alguma coisa?
+- Não, eu só...</i>
+
+219
+00:20:19,210 --> 00:20:22,180
+<i>- Quer tomar banho?
+- Não, é que...</i>
+
+220
+00:20:22,220 --> 00:20:25,180
+<i>- Tem sede? Quer água mineral?
+- Não obrigada.</i>
+
+221
+00:20:27,220 --> 00:20:29,190
+O que ela queria?
+O que ela disse?
+
+222
+00:20:29,220 --> 00:20:33,230
+A dona do hotel queria me
+dar água mineral!
+
+223
+00:20:33,270 --> 00:20:35,230
+Venha cá.
+
+224
+00:20:36,270 --> 00:20:37,230
+Venha.
+
+225
+00:20:38,270 --> 00:20:40,230
+Abra o lençol.
+
+226
+00:20:42,280 --> 00:20:46,240
+- Guido, gosta mesmo de mim?
+- Claro que sim!
+
+227
+00:21:15,260 --> 00:21:17,220
+Você é minha mãe, não é?
+
+228
+00:21:19,270 --> 00:21:23,230
+Quantas lágrimas, meu filho,
+quantas lágrimas!
+
+229
+00:21:23,270 --> 00:21:27,270
+Papai, espere! Não vá embora!
+Conversamos tão pouco...
+
+230
+00:21:30,320 --> 00:21:34,280
+Papai, eu tinha tantas perguntas
+para fazer...
+
+231
+00:21:37,320 --> 00:21:43,200
+Ainda não posso responder. Está vendo
+como o pé-direito é baixo?
+
+232
+00:21:44,290 --> 00:21:50,170
+É muito feio, meu filho. Eu teria
+preferido diferente.
+
+233
+00:21:50,290 --> 00:21:55,170
+Guido, não poderia cuidar disto?
+Você desenhava tão bem!
+
+234
+00:21:55,260 --> 00:22:00,180
+Eu gostaria... Comendador!
+Deu-se ao trabalho de vir?
+
+235
+00:22:05,260 --> 00:22:08,180
+- Bom dia.
+- Obséquios. Tem pouco tempo.
+
+236
+00:22:12,270 --> 00:22:15,190
+Como vai este meu filho?
+
+237
+00:22:16,270 --> 00:22:19,190
+Não se deixe comover,
+preste atenção!
+
+238
+00:22:20,280 --> 00:22:22,240
+Como assim?
+Não vai?
+
+239
+00:22:24,280 --> 00:22:27,240
+Foi triste perceber
+que errei tanto.
+
+240
+00:22:27,320 --> 00:22:28,240
+Mas eu...
+
+241
+00:22:33,330 --> 00:22:37,250
+A mamãe preparou um lanchinho
+para você.
+
+242
+00:22:37,330 --> 00:22:39,250
+Um pouco de queijo,
+dois pêssegos...
+
+243
+00:22:40,340 --> 00:22:44,210
+Não se preocupe comigo! Claro que
+este lugar é meio solitário,...
+
+244
+00:22:44,260 --> 00:22:49,180
+mas a mamãe vem todos os dias.
+Faz-me companhia, sabe?
+
+245
+00:22:49,220 --> 00:22:54,180
+E mantém tudo em ordem. Um pouco
+de decoro é essencial.
+
+246
+00:22:54,220 --> 00:22:58,180
+Nós fomos acostumados assim.
+Você e sua mulher vão bem?
+
+247
+00:22:58,230 --> 00:23:00,190
+Sim! Luisa...
+
+248
+00:23:00,230 --> 00:23:03,190
+Vocês foram a minha alegria!
+Tchau, meu filho.
+
+249
+00:23:08,230 --> 00:23:12,200
+Afinal, que lugar é este?
+Você gosta de ficar aqui?
+
+250
+00:23:12,240 --> 00:23:17,200
+Ainda não entendi direito, Guido,
+mas as coisas melhoraram.
+
+251
+00:23:18,240 --> 00:23:20,240
+Melhoraram muito.
+
+252
+00:23:21,290 --> 00:23:25,250
+No começo... veja bem, meu filho,
+no começo...
+
+253
+00:23:28,290 --> 00:23:33,260
+Guido! Eu faço o que posso,
+o que mais devo fazer?
+
+254
+00:23:43,220 --> 00:23:47,140
+Pobre Guido, deve estar cansado.
+Quer ir para casa?
+
+255
+00:23:48,230 --> 00:23:52,150
+Sou Luisa, não me reconhece?
+Em que está pensando?
+
+256
+00:25:13,260 --> 00:25:19,180
+Guido! Vou apresentar você a ele.
+Pode pedir conselhos para o filme.
+
+257
+00:25:19,260 --> 00:25:23,180
+Bela figura mística, não? Eu
+trouxe os três velhinhos.
+
+258
+00:25:23,270 --> 00:25:26,190
+- Um Russo, um general reformado...
+- Que velhinhos?
+
+259
+00:25:26,270 --> 00:25:29,190
+- Para a cena do padre!
+- Cubra-me, Cesari!
+
+260
+00:25:32,270 --> 00:25:34,150
+Volte aqui, seu bufão!
+
+261
+00:25:34,280 --> 00:25:39,150
+<i>Como vai? Que prazer ver você,
+Super-Tarzan!</i>
+
+262
+00:25:39,240 --> 00:25:43,120
+- Liguei 6 vezes para você.
+- Quer o roteiro para Claudia, não?
+
+263
+00:25:43,160 --> 00:25:47,120
+Sim, e então?
+- Eu ia mandá-lo. Aliás, já mandei.
+
+264
+00:25:47,160 --> 00:25:51,120
+Você está ótimo, por quê não
+interpreta mais?
+
+265
+00:25:51,170 --> 00:25:54,130
+Não consegui dormir. Tive uma idéia
+para a espaçonave. Que tal...
+
+266
+00:25:54,170 --> 00:25:58,130
+Conocchia, não gosto que peguem
+meu braço! E ponha o paletó!
+
+267
+00:25:58,170 --> 00:26:01,130
+Não quer que eu ponha um smoking?
+
+268
+00:26:01,170 --> 00:26:03,140
+- Como vai?
+- Bem.
+
+269
+00:26:03,180 --> 00:26:06,180
+- Foram bem de viagem?
+- Sim. Chegamos há uma hora.
+
+270
+00:26:07,220 --> 00:26:11,180
+Que aparição deslumbrante!
+Belíssima!
+
+271
+00:26:13,230 --> 00:26:15,190
+- Belíssima.
+- É verdade?
+
+272
+00:26:15,230 --> 00:26:20,190
+O senhor diz “toujours” isso,
+mas nunca fala do papel!
+
+273
+00:26:20,230 --> 00:26:25,190
+- O que achou do meu teste?
+- Adorei. Eu a Chamei, não?
+
+274
+00:26:25,240 --> 00:26:28,200
+Mas Ainda não sei nada! Disse
+que devo ser maternal,...
+
+275
+00:26:28,240 --> 00:26:31,160
+que devo comer muito macarrão...
+
+276
+00:26:33,200 --> 00:26:37,160
+- Já engordei 3 kg! É só isso?
+- Viu? Já sabe mais do que eu.
+
+277
+00:26:38,210 --> 00:26:41,170
+O senhor é o roteirista,
+fale-me do filme!
+
+278
+00:26:42,210 --> 00:26:45,090
+- O que esta senhora vai fazer?
+- Como assim? Não...
+
+279
+00:26:45,170 --> 00:26:47,090
+Agostini! Com licença.
+
+280
+00:26:47,170 --> 00:26:50,090
+Não quero ser inconveniente.
+
+281
+00:26:50,170 --> 00:26:55,100
+O hotel é bonito, o uísque é
+excelente, mas tenho 3 perguntas.
+
+282
+00:26:55,180 --> 00:26:58,140
+Mais tarde conversaremos. O que
+você quer? Com licença.
+
+283
+00:26:59,180 --> 00:27:03,140
+Agostini, preciso... nada, só Chamei
+você para me livrar dele.
+
+284
+00:27:04,230 --> 00:27:08,150
+Claudia tem ofertas de toda a parte
+do mundo. Não posso segurá-la!
+
+285
+00:27:08,230 --> 00:27:13,150
+Precisa falar com ela! Afinal, há um
+roteiro, uma página, uma idéia?
+
+286
+00:27:13,240 --> 00:27:17,160
+Claudia sabe que esse pode ser o
+melhor papel que ela já fez?
+
+287
+00:27:17,240 --> 00:27:19,160
+Tudo bem, já vou explicar.
+
+288
+00:27:27,250 --> 00:27:31,130
+- Cuidado, ou vai perder Claudia.
+- Vai ver os velhinhos?
+
+289
+00:27:31,210 --> 00:27:34,130
+- Mas já está pronto! O que é?!
+- Os velhinhos!
+
+290
+00:27:34,210 --> 00:27:36,130
+- Onde estão?
+- Aqui.
+
+291
+00:27:36,210 --> 00:27:40,130
+Carla ligou, não quer ficar naquele
+hotel. E ela tem razão, é feio.
+
+292
+00:27:40,220 --> 00:27:43,660
+- O que vou fazer, trazê-la aqui?
+- Com licença.
+
+293
+00:27:43,690 --> 00:27:47,100
+- Vou pegar os velhinhos.
+- Esta é minha esposinha.
+
+294
+00:27:48,140 --> 00:27:51,100
+Encantada! É um prazer.
+
+295
+00:27:51,140 --> 00:27:55,150
+Ela também é jornalista, escreve
+para revistas femininas.
+
+296
+00:27:55,180 --> 00:27:58,150
+Ela também quer fazer
+umas perguntinhas.
+
+297
+00:27:58,190 --> 00:28:01,150
+Minhas leitoras adoram histórias
+românticas.
+
+298
+00:28:02,190 --> 00:28:06,160
+Poderia me falar da sua
+vida amorosa?
+
+299
+00:28:06,200 --> 00:28:10,160
+Gui', aqui estão. Cumprimente o
+doutor. Venham, vocês!
+
+300
+00:28:10,200 --> 00:28:13,160
+O senhor também, general,
+cumprimente!
+
+301
+00:28:14,210 --> 00:28:16,170
+- Quantos anos tem?
+-70.
+
+302
+00:28:16,210 --> 00:28:18,130
+- E o senhor?
+-64.
+
+303
+00:28:20,210 --> 00:28:22,130
+- O senhor?
+-68.
+
+304
+00:28:25,170 --> 00:28:28,130
+Não são velhos o bastante.
+
+305
+00:28:28,180 --> 00:28:31,140
+Como? Este já vai morrer! Da
+próxima vez, trarei cadáveres.
+
+306
+00:28:31,180 --> 00:28:35,140
+Queria tipos comoventes.Veja este,
+é olhar e chorar.
+
+307
+00:28:46,150 --> 00:28:50,110
+Eu é que vivo ajoelhado assim!
+Levante-se, vai se machucar.
+
+308
+00:28:50,150 --> 00:28:55,110
+- Como vai?
+- O Comendador, nosso sol!
+
+309
+00:28:55,200 --> 00:28:57,120
+Esta aqui não parava de berrar
+no helicóptero.
+
+310
+00:28:57,200 --> 00:28:59,120
+- Onde é a piscina?
+- Quieta, nem chegamos ainda!
+
+311
+00:28:59,200 --> 00:29:01,120
+O tratamento funcionou?
+
+312
+00:29:01,200 --> 00:29:04,120
+- O que é isto?
+- Uma bobaginha.
+
+313
+00:29:04,210 --> 00:29:06,120
+- Sempre me dando presentes!
+É igual ao meu.
+
+314
+00:29:06,210 --> 00:29:09,130
+- Não precisa dar corda.
+- Reloginho, reloginho...
+
+315
+00:29:09,210 --> 00:29:14,090
+- observem o reloginho.
+- Está com as idéias mais claras?
+
+316
+00:29:14,210 --> 00:29:18,090
+- Sim, acho que estou bem melhor.
+- Os americanos estão no papo!
+
+317
+00:29:18,180 --> 00:29:21,100
+O senhor é o famoso
+capitalista de Milão!
+
+318
+00:29:47,160 --> 00:29:50,080
+Vi o passaporte dela.
+Tem 52 anos!
+
+319
+00:29:50,160 --> 00:29:52,080
+Que novinha!
+
+320
+00:29:52,160 --> 00:29:56,080
+- Boa noite, madame.
+- Quem é você? Quem?
+
+321
+00:31:02,220 --> 00:31:06,100
+Sr. Diretor, posso fazer mais
+uma perguntinha?
+
+322
+00:31:07,230 --> 00:31:12,110
+Quer saber qual a relação entre
+catolicismo e marxismo.
+
+323
+00:31:13,190 --> 00:31:20,110
+Obrigado, eu tinha entendido.
+Quer saber qual o meu partido.
+
+324
+00:31:20,200 --> 00:31:23,120
+Sinto que o senhor por ser justo,
+como todos os italianos...
+
+325
+00:31:24,200 --> 00:31:27,120
+deve ser capaz de
+me responder...
+
+326
+00:31:27,200 --> 00:31:31,120
+a Itália é ou não é um país de
+fundo essencialmente católico?
+
+327
+00:31:31,210 --> 00:31:34,130
+- Sim!
+- Quietinha, coma o seu sorvete.
+
+328
+00:31:34,210 --> 00:31:38,130
+É a previsão de custos para
+a espaçonave.
+
+329
+00:31:39,210 --> 00:31:43,130
+Comendador, eu queria lhe
+falar em particular.
+
+330
+00:31:43,180 --> 00:31:47,140
+Não vou agüentar muito tempo,
+isto aqui é um hospício!
+
+331
+00:31:47,180 --> 00:31:50,140
+Depois conversamos. O que dizia
+sobre o colesterol?
+
+332
+00:31:51,180 --> 00:31:55,140
+- Todos esses filmes sem heróis...
+- Que diabos está dizendo?
+
+333
+00:31:55,190 --> 00:32:01,150
+Não me interessam. Até funciona em
+livros, mas filme sem herói...
+
+334
+00:32:01,190 --> 00:32:05,110
+- Não entendo patavina de francês!
+- Querida, pare de beber.
+
+335
+00:32:05,150 --> 00:32:09,110
+O fato é que o cinema não surgiu
+como jogo intelectual.
+
+336
+00:32:09,160 --> 00:32:12,120
+É só simplificação e glorificação.
+
+337
+00:32:12,160 --> 00:32:15,120
+Um só grande escritor: Fitzgerald
+nos primeiros livros.
+
+338
+00:32:15,160 --> 00:32:19,120
+Depois, uma orgia de pragmatismo,
+de realismo brutal!
+
+339
+00:32:19,160 --> 00:32:23,130
+Na verdade, o que significa
+“direita” e “esquerda”?
+
+340
+00:32:23,170 --> 00:32:27,130
+O senhor é otimista a ponto de crer
+que neste mundo caótico...
+
+341
+00:32:27,170 --> 00:32:32,130
+haja pessoas com idéias claras
+sobre a direita e a esquerda!
+
+342
+00:32:32,180 --> 00:32:37,180
+Nos EUA há uma nova teoria para
+baixar o colesterol, gordura suína.
+
+343
+00:32:37,210 --> 00:32:40,180
+- Os aspargos estão bons?
+- Muito.
+
+344
+00:32:40,220 --> 00:32:43,100
+- Pode me dizer aproximadamente...
+- Sim?
+
+345
+00:32:43,180 --> 00:32:47,100
+- Quantas cenas serão?
+- Em que sentido?
+
+346
+00:32:47,190 --> 00:32:50,110
+- Quantas cenas serão?
+-5.
+
+347
+00:32:52,190 --> 00:32:56,110
+- Só 5?
+- Talvez 6, 7...
+
+348
+00:33:00,200 --> 00:33:03,080
+O embaixador está de olho nela.
+
+349
+00:33:08,160 --> 00:33:11,080
+- E daí?
+- Só quis te avisar.
+
+350
+00:33:11,170 --> 00:33:14,090
+- Já avisou.
+- Quer que eu a tire para dançar?
+
+351
+00:33:14,170 --> 00:33:15,090
+Sim, tire-a.
+
+352
+00:33:17,170 --> 00:33:22,090
+Pode ser. Mas estou tão ansiosa por
+conhecer, entender meu papel!
+
+353
+00:33:22,180 --> 00:33:26,100
+Preciso conhecer minha personagem
+com antecedência!
+
+354
+00:33:26,180 --> 00:33:30,140
+Ela disse que é indispensável que
+ela conheça antes o seu papel.
+
+355
+00:33:32,180 --> 00:33:36,150
+Preciso sentir dentro de mim a sua
+carne, suas idéias, senão...
+
+356
+00:33:36,230 --> 00:33:40,150
+- E o maestro Ainda não explicou?
+- Não!
+
+357
+00:33:40,230 --> 00:33:44,110
+Eu lamento, madame, mas não posso
+dar nenhuma informação.
+
+358
+00:33:45,150 --> 00:33:48,120
+Sou só o produtor. Não sei,
+não é, Guido?
+
+359
+00:33:48,160 --> 00:33:50,120
+Pois é, você não pode
+saber nada.
+
+360
+00:33:58,120 --> 00:34:01,080
+E agora, três dias de descanso.
+
+361
+00:34:04,130 --> 00:34:09,090
+Parecem de vidro. As primeiras
+cerejas desta primavera!
+
+362
+00:34:09,130 --> 00:34:13,090
+Venha, vamos dar as boas-vindas
+à primavera juntos.
+
+363
+00:34:13,140 --> 00:34:16,100
+- Obrigado. E para Guido?
+- Boa sorte para Guido.
+
+364
+00:34:22,140 --> 00:34:27,150
+Mario Mezzabotta, 96 quilos.
+Vamos dar uma volta?
+
+365
+00:34:31,190 --> 00:34:38,120
+Eu sei, eu sei. Naturalmente acha
+que fiquei gagá, não?
+
+366
+00:34:38,200 --> 00:34:41,160
+- Ela é 30 anos, mais nova, e daí?
+- Está ótimo.
+
+367
+00:34:41,200 --> 00:34:45,080
+Posso ser um tonto, um velho
+imbecil, o que quiser. E daí?
+
+368
+00:34:46,160 --> 00:34:53,050
+O senhor seria capaz de criar algo
+verdadeiro, importante e belo...
+
+369
+00:34:53,130 --> 00:34:56,050
+sob encomenda? Para o papa,
+por exemplo?
+
+370
+00:34:56,130 --> 00:34:59,050
+Vou pensar a respeito.
+Com licença.
+
+371
+00:35:01,140 --> 00:35:04,050
+Eu não vivo de ilusões, sabe?
+Não mesmo.
+
+372
+00:35:04,140 --> 00:35:09,060
+Talvez ela esteja comigo só pelo
+dinheiro. Aliás, com certeza.
+
+373
+00:35:09,140 --> 00:35:12,060
+Mas nunca senti alguém tão
+perto de mim na vida.
+
+374
+00:35:13,150 --> 00:35:18,070
+Você viu, ela é bonita, simpática,
+inteligente... tudo.
+
+375
+00:35:19,150 --> 00:35:22,110
+Só pelo dinheiro? Mas hoje em dia
+há tantos jovens endinheirados!
+
+376
+00:35:23,150 --> 00:35:26,120
+- Claro, ela gosta de você.
+- Pois é.
+
+377
+00:35:27,200 --> 00:35:32,120
+E não me forçou a decidir. Não, eu
+decidi, em sã consciência.
+
+378
+00:35:32,200 --> 00:35:36,120
+Coitada, ela nunca falou nada de
+minha mulher, de minha família...
+
+379
+00:35:36,210 --> 00:35:39,130
+- nunca me censurou.
+- Como você a conheceu?
+
+380
+00:35:41,210 --> 00:35:45,010
+Em Londres. Ela era colega de
+minha filha na escola.
+
+381
+00:35:46,090 --> 00:35:49,010
+- Há quantos anos você é casado?
+- Muitos. 31.
+
+382
+00:35:49,090 --> 00:35:55,010
+- E a sua mulher?
+- Não reagiu bem. Odeia-a.
+
+383
+00:35:55,100 --> 00:35:59,020
+E ela, coitadinha, imagine...
+gosta da minha mulher.
+
+384
+00:36:00,100 --> 00:36:03,020
+Agora, diga sinceramente que
+sou um tolo.
+
+385
+00:36:03,110 --> 00:36:06,020
+Com licença. Deve haver um
+piano, um cronograma.
+
+386
+00:36:06,110 --> 00:36:09,030
+Perderemos um filme na Alemanha.
+Temos outras ofertas.
+
+387
+00:36:09,110 --> 00:36:13,030
+- Vou ficar no escuro até o final?
+- Perdão?
+
+388
+00:36:17,120 --> 00:36:20,080
+- Parece um caramujinho.
+- Quest que c'est “caramujinho”?
+
+389
+00:36:20,160 --> 00:36:22,080
+<i>Un petit escargot.</i>
+
+390
+00:36:24,160 --> 00:36:26,080
+Silêncio!
+
+391
+00:36:28,170 --> 00:36:30,090
+Estão ouvindo a voz da nascente?
+
+392
+00:36:33,170 --> 00:36:36,090
+Os romanos antigos a chamavam
+de “Água Feliz”.
+
+393
+00:36:49,060 --> 00:36:53,020
+Maya, vamos tentar divertir um
+pouco estes chatos!
+
+394
+00:36:54,070 --> 00:36:56,030
+Com licença, madame.
+
+395
+00:36:58,070 --> 00:37:01,030
+Está pronta, Maya? Vamos, o
+que eu tenho na mão?
+
+396
+00:37:02,070 --> 00:37:05,030
+- Uma bolsinha de veludo!
+- E dentro?
+
+397
+00:37:05,070 --> 00:37:11,040
+Um lenço branco! Um lenço
+vermelho! Aspirina!
+
+398
+00:37:11,080 --> 00:37:14,080
+- Nada de drogas, espero.
+- Não, aspirina!
+
+399
+00:37:14,120 --> 00:37:17,090
+- Um porta-níqueis!
+- Tem dinheiro?
+
+400
+00:37:18,130 --> 00:37:21,090
+2725 liras!
+
+401
+00:37:22,130 --> 00:37:24,090
+Muito bem.
+
+402
+00:37:24,130 --> 00:37:28,090
+E esta Sra., o que está pensando?
+Nada de sujo, espero.
+
+403
+00:37:28,140 --> 00:37:31,100
+- Vamos, pense algo.
+- O que devo pensar?
+
+404
+00:37:31,140 --> 00:37:33,100
+O que quiser.
+Pense!
+
+405
+00:37:34,140 --> 00:37:38,060
+“Eu gostaria de viver
+mais cem anos!”
+
+406
+00:37:44,070 --> 00:37:47,990
+E esta lindíssima senhora,
+o que tem na cabeça?
+
+407
+00:37:48,070 --> 00:37:49,990
+Deixe-me em paz. Posso
+pensar em alguém?
+
+408
+00:37:50,070 --> 00:37:52,990
+- Mas claro! Vamos.
+- Então...
+
+409
+00:37:54,080 --> 00:37:58,000
+- Não, tenho vergonha, esqueça.
+- Por quê? Vamos lá!
+
+410
+00:37:58,080 --> 00:38:03,000
+- Posso mesmo pensar em alguém?
+- Que medo dele ler minha mente!
+
+411
+00:38:03,080 --> 00:38:06,040
+Não se preocupe, você não corre
+perigo. Vamos entrar, está frio.
+
+412
+00:38:06,090 --> 00:38:09,050
+- ”Um beijinho e um pescoção.”
+- É isso?
+
+413
+00:38:12,130 --> 00:38:16,050
+Senhoras e senhores, devem estar
+pensando: “Que charlatão!”
+
+414
+00:38:16,140 --> 00:38:20,060
+Lamento decepcioná-los, mas não há
+nenhum truque ou armação!
+
+415
+00:38:20,140 --> 00:38:24,060
+É um experimento excepcional de
+magnetismo, de telepatia!
+
+416
+00:38:24,140 --> 00:38:28,060
+Eu transmito mesmo seus
+pensamentos à Mile. Maya.
+
+417
+00:38:28,150 --> 00:38:31,020
+- Quer esconder os seus?
+- Não quero que faça comigo!
+
+418
+00:38:32,150 --> 00:38:36,030
+Não! Você dá nojo!
+Deixe-me em paz!
+
+419
+00:38:37,110 --> 00:38:39,030
+Glória, o que é?
+
+420
+00:38:39,110 --> 00:38:42,990
+- Esse homem está me torturando!
+- Por favor, não insista!
+
+421
+00:38:43,040 --> 00:38:47,000
+- Claro. O pensamento é sagrado.
+- Viu? É só um jogo.
+
+422
+00:38:50,040 --> 00:38:55,000
+Um momento, senhores! Parados!
+Pode-se saber o que pensam?
+
+423
+00:38:55,040 --> 00:38:58,000
+- O senhor, por exemplo.
+- O que acha?
+
+424
+00:38:58,050 --> 00:39:00,010
+Penso no meu diretor, minha
+cruz e deleite.
+
+425
+00:39:01,050 --> 00:39:03,020
+- Como vai?
+- Bem. E você?
+
+426
+00:39:03,050 --> 00:39:08,050
+- Já faz muitos anos, não?
+- Pois é. Infelizmente, meu caro.
+
+427
+00:39:08,100 --> 00:39:11,060
+Eu já volto! Você ficou famoso.
+
+428
+00:39:11,100 --> 00:39:16,060
+Ora, deixe disso! Afinal, qual é o
+truque? Como você transmite...
+
+429
+00:39:16,100 --> 00:39:21,070
+Bem, há algo de verdadeiro. Não sei
+como acontece, mas acontece.
+
+430
+00:39:21,110 --> 00:39:24,070
+- Pode transmitir tudo para ela?
+- Menos que ela me deixe em paz.
+
+431
+00:39:24,110 --> 00:39:27,030
+- Quer tentar também?
+- Sim, espere.
+
+432
+00:39:27,110 --> 00:39:30,030
+Só faltava dar errado agora.
+
+433
+00:39:34,080 --> 00:39:36,040
+Não entendo!
+
+434
+00:39:38,080 --> 00:39:40,040
+Não sei repetir isso!
+
+435
+00:40:06,110 --> 00:40:10,030
+É isto?
+“Asa nisi masa”?
+
+436
+00:40:11,110 --> 00:40:13,030
+- É isso?
+- É.
+
+437
+00:40:14,110 --> 00:40:16,030
+Mas o que quer dizer?
+
+438
+00:40:22,120 --> 00:40:26,000
+Guido, venha cá. Onde você está?
+Não me deixe nervosa!
+
+439
+00:40:27,080 --> 00:40:30,000
+- Não quero tomar banho!
+- Agora vou te pegar!
+
+440
+00:40:30,080 --> 00:40:35,010
+Eu sei o que esse danadinho quer.
+Quer o colo do amor, dele, não é?
+
+441
+00:40:35,090 --> 00:40:40,010
+Vem cá, vem cá! Não quer tomar
+banho no vinho? Tem vergonha?
+
+442
+00:40:40,090 --> 00:40:43,010
+Não sabe que o vinho vai te
+deixar forte como o vovô?
+
+443
+00:40:45,100 --> 00:40:48,020
+Guido tem medo,
+Guido tem medo!
+
+444
+00:41:08,160 --> 00:41:12,080
+Diacho! A lenha está toda
+molhada este ano.
+
+445
+00:41:12,160 --> 00:41:16,080
+Esse gato é folgado como o avô de
+vocês, só aparece para comer!
+
+446
+00:41:16,160 --> 00:41:19,040
+Não tem vergonha?
+Vá para a cama!
+
+447
+00:41:19,170 --> 00:41:23,050
+Mas, da última vez, bati a porta
+na cara dele!
+
+448
+00:41:24,130 --> 00:41:26,050
+Deixei ele lá fora por dois dias.
+
+449
+00:41:27,130 --> 00:41:32,050
+Eu poderia ter casado de novo, com
+certeza escolheria melhor!
+
+450
+00:41:32,140 --> 00:41:38,060
+Não escolheria alguém como o seu
+avô! Mas eu sou tonta mesmo.
+
+451
+00:41:38,140 --> 00:41:41,060
+Pensei que se eu pegasse
+outro marido...
+
+452
+00:41:41,150 --> 00:41:46,980
+ele, no inferno ou paraíso, esteja
+onde estiver, não me esperaria.
+
+453
+00:41:47,070 --> 00:41:50,030
+Chega de barulho!
+Vão para a cama!
+
+454
+00:41:50,070 --> 00:41:57,030
+Vou levá-lo para o alto do Monte
+Verrucchio! Vamos, vamos, vamos!
+
+455
+00:41:58,120 --> 00:42:02,040
+Então você bebeu, vinho? Quer
+acabar como Fafinone?
+
+456
+00:42:20,090 --> 00:42:24,020
+- Tia, Claudia fez xixi nas calças!
+- O que é isso? Durmam, vamos!
+
+457
+00:42:31,100 --> 00:42:34,020
+Guidino, cubra-se, está frio!
+Quieto!
+
+458
+00:42:40,110 --> 00:42:42,030
+Fez as suas orações?
+
+459
+00:42:44,030 --> 00:42:46,030
+Meu danadinho lindo!
+
+460
+00:42:47,030 --> 00:42:52,040
+Me dá um beijo. De quem gosta mais?
+De mim, não é?
+
+461
+00:42:53,080 --> 00:42:56,040
+Durmam, senão vão apanhar!
+Sosseguem!
+
+462
+00:42:58,090 --> 00:43:04,050
+Vocês não me enganam. Como fingem
+que dormem depressa!
+
+463
+00:43:06,090 --> 00:43:10,010
+Durmam bem, criaturinhas.
+Feche os olhos, você!
+
+464
+00:43:27,070 --> 00:43:30,030
+Não durma, Guido, hoje o quadro
+vai mexer os olhos!
+
+465
+00:43:30,070 --> 00:43:33,030
+Não tenha medo, mas
+fique quieto!
+
+466
+00:43:33,070 --> 00:43:36,040
+O Dr. Giustino vai olhar pro lugar
+onde está o tesouro!
+
+467
+00:43:36,080 --> 00:43:39,040
+Coragem, vamos ficar ricos!
+Lembra das palavras?
+
+468
+00:43:39,080 --> 00:43:43,000
+Asa nisi masa, asa nisi masa,
+asa nisi masa.
+
+469
+00:44:19,070 --> 00:44:22,990
+Telefonaram de Roma umas 3 vezes.
+É a sua esposa, acho.
+
+470
+00:44:25,080 --> 00:44:29,000
+- Faça uma ligação para lá.
+- Gino, faça a ligação.
+
+471
+00:44:29,080 --> 00:44:32,000
+Isto é para o senhor.
+Boa noite.
+
+472
+00:44:34,080 --> 00:44:37,000
+Faça aquela ligação para
+Roma, rápido.
+
+473
+00:44:48,050 --> 00:44:53,020
+Não, não me sinto ofendida. Só uma
+coisa pode me ofender.
+
+474
+00:44:54,060 --> 00:44:56,020
+Mas você me conhece.
+
+475
+00:44:58,060 --> 00:45:03,990
+Não, não. Eu o perdôo por tudo.
+
+476
+00:45:07,030 --> 00:45:08,990
+Perdôo tudo.
+
+477
+00:45:14,040 --> 00:45:19,000
+Boa noite. Vamos conversar?
+Sente-se perto de mim.
+
+478
+00:45:19,040 --> 00:45:23,000
+Não, lamento, vou dormir. Estou
+cansado e espero uma ligação.
+
+479
+00:45:24,040 --> 00:45:27,010
+- Quer?
+- Obrigado, minha cabeça dói.
+
+480
+00:45:28,050 --> 00:45:31,010
+Dê-me suas mãos.
+Não, sente-se!
+
+481
+00:45:33,050 --> 00:45:39,060
+Minha mão esquerda tem poder de
+cura. Eu mesmo me curo com ela.
+
+482
+00:45:39,100 --> 00:45:41,060
+Tire o chapéu.
+
+483
+00:45:45,060 --> 00:45:46,980
+melhorou?
+
+484
+00:45:51,070 --> 00:45:52,940
+Sim, talvez.
+
+485
+00:45:58,030 --> 00:46:01,950
+Por que me olha assim? Não
+diga que sou belíssima!
+
+486
+00:46:02,030 --> 00:46:04,950
+Do jeito que diz, parece
+um insulto!
+
+487
+00:46:06,040 --> 00:46:08,960
+- Qual é o problema?
+- Não sei.
+
+488
+00:46:11,040 --> 00:46:17,960
+Parece-me que errei tudo na minha
+vida, no meu trabalho...
+
+489
+00:46:22,050 --> 00:46:25,970
+Diga-me, por que se diverte
+em me torturar?
+
+490
+00:46:26,060 --> 00:46:27,970
+Torturá-la? Ora!
+
+491
+00:46:28,060 --> 00:46:34,020
+Falei como uma amiga. Preciso me
+sentir próxima do meu diretor.
+
+492
+00:46:40,110 --> 00:46:44,950
+Viu o filme que fiz em Belgrado? Fiz
+uma mulher Ainda desejável...
+
+493
+00:46:45,030 --> 00:46:48,910
+mas marcada pelo tempo implacável,
+algo histérica...
+
+494
+00:46:50,030 --> 00:46:53,910
+- Toque “Mystification”.
+- Não sei tocar essa!
+
+495
+00:46:57,000 --> 00:47:01,920
+esta mulher que traz paz,
+proteção e amor.
+
+496
+00:47:05,010 --> 00:47:08,920
+Eu sou essa personagem. Sou
+assim na vida, no amor.
+
+497
+00:47:09,010 --> 00:47:11,930
+Por isso sou tão solitária.
+
+498
+00:47:13,010 --> 00:47:17,930
+Sempre entendi e perdoei o homem
+que eu amo... os homens.
+
+499
+00:47:18,020 --> 00:47:23,980
+- Senhor, Roma está na linha.
+- Sou muito sensual, perversa até!
+
+500
+00:47:24,020 --> 00:47:25,980
+É bem adequada.
+Volto já.
+
+501
+00:47:30,070 --> 00:47:33,990
+<i>- Fiz a ligação, pode falar.
+- Alô? Sim?</i>
+
+502
+00:47:34,070 --> 00:47:38,990
+<i>Procura Luisa? Está com remorso,
+não é, seu monstro?</i>
+
+503
+00:47:39,080 --> 00:47:42,950
+<i>- Aqui é Rosselia.
+- Olá, como vai? Luisa me ligou.</i>
+
+504
+00:47:43,000 --> 00:47:45,920
+<i>Onde estava até agora, seu
+vagabundo? Tratamento uma ova!</i>
+
+505
+00:47:45,960 --> 00:47:48,920
+<i>- Vou passar para Luisa.
+- Obrigado.</i>
+
+506
+00:47:48,960 --> 00:47:51,920
+<i>Guido, liguei duas vezes.
+Onde estava?</i>
+
+507
+00:47:51,960 --> 00:47:56,920
+Eu sei, desculpe. Estava na sala da
+produção, trabalhando.
+
+508
+00:47:56,970 --> 00:47:58,930
+<i>- Como vai você?
+- Bem.</i>
+
+509
+00:47:58,970 --> 00:48:02,930
+<i>O tratamento está adiantando?
+Sente-se melhor?</i>
+
+510
+00:48:02,970 --> 00:48:06,930
+Acho que sim, mas não estou
+descansando muito.
+
+511
+00:48:06,980 --> 00:48:08,930
+E você está se divertindo?
+
+512
+00:48:08,980 --> 00:48:11,940
+<i>Está tudo igual. Rosselia, Tilde e
+Enrico estão aqui, mas já vão.</i>
+
+513
+00:48:11,980 --> 00:48:14,940
+<i>Aí está divertido? Viu
+algum conhecido?</i>
+
+514
+00:48:14,980 --> 00:48:18,940
+Que nada, aqui é uma chatice.
+Mas é melhor para trabalhar.
+
+515
+00:48:18,980 --> 00:48:24,990
+<i>Não encontrou nenhum conhecido?
+Está sempre só?</i>
+
+516
+00:48:25,030 --> 00:48:27,990
+<i>- É claro.
+- É mesmo?</i>
+
+517
+00:48:29,030 --> 00:48:33,000
+Luisa, por que não vem me ver? É só
+um pulo, não custa nada.
+
+518
+00:48:33,040 --> 00:48:38,000
+<i>- Quando vai filmar, seu chato?
+- Não sei. Passe-me Luisa.</i>
+
+519
+00:48:38,040 --> 00:48:41,960
+<i>- Então quer que eu vá aí?
+- Claro. Se quiser.</i>
+
+520
+00:48:42,000 --> 00:48:45,880
+<i>- Venha com alguém.
+- Mas você quer que eu vá?</i>
+
+521
+00:48:45,970 --> 00:48:48,890
+É Natural, senão eu não pediria.
+
+522
+00:48:48,970 --> 00:48:50,890
+<i>- Mas três minutos, senhor?
+- Não precisa, obrigado.</i>
+
+523
+00:48:50,970 --> 00:48:53,890
+<i>- Quando devo partir?
+- Quando quiser.</i>
+
+524
+00:48:53,970 --> 00:48:55,890
+<i>Olha que eu vou mesmo!</i>
+
+525
+00:48:55,980 --> 00:48:59,890
+Se eu não quisesse, não teria
+pedido, amor. Eu quero. Tchau.
+
+526
+00:48:59,980 --> 00:49:02,900
+<i>- Tchau, seu alienado!
+- Tchau.</i>
+
+527
+00:49:02,980 --> 00:49:04,900
+<i>Boa noite, Guido.</i>
+
+528
+00:49:11,990 --> 00:49:16,950
+- Sr. Guido, meu empresário...
+- Um momento, preciso subir para...
+
+529
+00:49:16,990 --> 00:49:18,950
+Merda!
+
+530
+00:49:19,040 --> 00:49:21,960
+É de meu interesse, acredite, e
+amanhã conversaremos.
+
+531
+00:49:28,050 --> 00:49:31,960
+Juntas para a estrutura
+central: 10 mil.
+
+532
+00:49:33,050 --> 00:49:35,970
+Tábuas para os degraus:
+260.
+
+533
+00:49:36,050 --> 00:49:38,930
+- Precisa de algo?
+- Não, podem continuar.
+
+534
+00:49:40,050 --> 00:49:42,890
+Que produção esforçada!
+
+535
+00:49:46,940 --> 00:49:48,900
+Olá, Eleonora.
+
+536
+00:49:51,940 --> 00:49:56,900
+Doutor, telefonei para a pensão
+mas a alemã não estava lá.
+
+537
+00:49:56,940 --> 00:49:59,900
+- Precisam achá-la.
+- Está em Paris, com um circo.
+
+538
+00:50:05,950 --> 00:50:07,910
+E o que eu devo fazer com esta?
+
+539
+00:50:09,950 --> 00:50:13,960
+Quanta honra, doutor! Mas estou
+em trajes menores!
+
+540
+00:50:13,990 --> 00:50:17,960
+Guido, escute: para a fazenda,
+havia aquela...
+
+541
+00:50:19,010 --> 00:50:23,970
+Aqui está. Afinal, onde fica este
+lugar? Não tem endereço.
+
+542
+00:50:24,010 --> 00:50:27,970
+É na Quinta do Príncipe, mas...
+Quem está aí?
+
+543
+00:50:28,010 --> 00:50:30,970
+As minhas sobrinhas,
+Eva e Dina.
+
+544
+00:50:34,020 --> 00:50:38,940
+Vamos, saia daí, boba! Quem sabe
+não arruma uma ponta no filme?
+
+545
+00:50:39,980 --> 00:50:43,940
+- Prazer.
+- O prazer é meu. De onde é?
+
+546
+00:50:43,980 --> 00:50:46,950
+- De Trieste.
+- Viva a Itália!
+
+547
+00:50:49,990 --> 00:50:51,950
+Estão bem organizados
+aqui, não?
+
+548
+00:50:52,990 --> 00:50:55,950
+Guido, ela tem uma prima
+de 2 metros de altura.
+
+549
+00:50:55,990 --> 00:51:00,960
+Precisa vê-la, pode servir no filme.
+Esta malandrinha aqui!
+
+550
+00:51:01,000 --> 00:51:04,960
+É verdade. É tão alta quanto eu,
+quando em pé na cama!
+
+551
+00:51:05,000 --> 00:51:07,960
+- Entendeu?
+- E já foi Miss Nylon 2 vezes.
+
+552
+00:51:08,010 --> 00:51:12,010
+<i>- Guido está aí? Eu já vou.
+- Durma, Conocchia. Até amanhã.</i>
+
+553
+00:51:12,040 --> 00:51:15,010
+- Posso lhe perguntar uma coisa?
+- Vá em frente.
+
+554
+00:51:15,050 --> 00:51:21,020
+Esta tonta diz que o senhor não
+consegue fazer histórias de amor!
+
+555
+00:51:21,060 --> 00:51:23,020
+Ela tem razão.
+
+556
+00:51:24,060 --> 00:51:28,020
+Quer que eu acorde amanhã?
+Quietas!
+
+557
+00:51:29,060 --> 00:51:33,990
+Nunca nos pegará dormindo!
+Está é uma produção insone!
+
+558
+00:51:38,030 --> 00:51:40,990
+Estão sempre brincando, mas
+são bons rapazes.
+
+559
+00:51:41,030 --> 00:51:45,910
+Precisa de alguma coisa? Teve uma
+idéia? Precisa me dizer algo?
+
+560
+00:51:46,000 --> 00:51:48,920
+Não, obrigado, não preciso de
+nada, vá dormir.
+
+561
+00:51:49,000 --> 00:51:51,920
+- Qualquer coisa.
+- Obrigado, boa noite.
+
+562
+00:51:52,000 --> 00:51:53,920
+Boa noite uma ova!
+
+563
+00:51:54,000 --> 00:51:57,920
+Como é possível dormir aqui?
+Quem é que consegue dormir?
+
+564
+00:51:58,010 --> 00:51:59,920
+Conocchia, tenha paciência...
+
+565
+00:52:00,010 --> 00:52:03,970
+Desculpe, mas há 30 anos
+trabalho neste ramo!
+
+566
+00:52:04,010 --> 00:52:07,970
+Fiz filmes que vocês nem sonham!
+Nunca tive medo de nada!
+
+567
+00:52:08,010 --> 00:52:09,980
+Por quê grita seu velho doido!
+
+568
+00:52:10,060 --> 00:52:15,980
+Então é isso. “Velho”! Finalmente
+você deixou escapar.
+
+569
+00:52:16,060 --> 00:52:19,980
+- Conocchia é velho.
+- O que é? Não Chamei vocês!
+
+570
+00:52:22,070 --> 00:52:24,950
+Você só me mantém no escuro,
+não sei de nada...
+
+571
+00:52:25,070 --> 00:52:27,950
+quando posso falar, quando
+devo calar!
+
+572
+00:52:28,070 --> 00:52:31,950
+Eu não quero te encher o saco! Não
+quero saber do filme, pronto.
+
+573
+00:52:32,030 --> 00:52:34,950
+- Quer fazer segredo? Pois faça!
+- Por favor, vá dormir!
+
+574
+00:52:36,040 --> 00:52:38,960
+Mas se quiser que eu o ajude,
+como sempre ajudei...
+
+575
+00:52:39,040 --> 00:52:40,960
+precisa me dizer alguma coisa!
+
+576
+00:52:41,040 --> 00:52:44,880
+Diga: “Cono', livre-se da francesa,
+a espaçonave é tal e tal...
+
+577
+00:52:44,960 --> 00:52:48,880
+diga: “Conocchia, enforque-se”,
+mas diga algo!
+
+578
+00:52:49,970 --> 00:52:51,890
+Você mudou muito, Guido.
+
+579
+00:52:53,970 --> 00:52:57,930
+Agora vai chorar também? Vamos,
+não se envergonha?
+
+580
+00:52:58,980 --> 00:53:02,940
+Não. Amanhã largo o filme, não
+quero ser um obstáculo.
+
+581
+00:53:03,020 --> 00:53:07,940
+Você precisa de jovens. Mas tome
+cuidado, pois você também mudou.
+
+582
+00:53:33,000 --> 00:53:38,930
+Uma crise de “inspiration”? E senão
+for passageira, caro senhor?
+
+583
+00:53:39,010 --> 00:53:43,890
+Se for o desmoronamento final de um
+mentiroso sem tino ou talento?
+
+584
+00:54:13,000 --> 00:54:16,920
+Suponhamos que você seja a
+pureza, a espontaneidade.
+
+585
+00:54:17,960 --> 00:54:23,920
+Que diabos adianta ser sincero? Você
+ouviu aquele gavião falando.
+
+586
+00:54:23,960 --> 00:54:27,930
+“Chega de símbolos, do apelo da
+pureza, de inocência e evasão!”
+
+587
+00:54:29,970 --> 00:54:31,930
+Então o que você quer?
+
+588
+00:54:46,940 --> 00:54:51,900
+<i>Sim, também poderia ser assim! Na
+cidade há uma pinacoteca.</i>
+
+589
+00:54:51,950 --> 00:54:57,910
+<i>Você, a filha do zelador, cresceu
+entre imagens de antiga beleza.</i>
+
+590
+00:55:14,010 --> 00:55:15,880
+Tem razão.
+
+591
+00:55:50,960 --> 00:55:53,920
+Vim para nunca mais ir embora.
+
+592
+00:55:54,960 --> 00:55:59,920
+Quero por ordem, quero
+fazer limpeza.
+
+593
+00:56:00,960 --> 00:56:04,930
+Quero por ordem,
+quero fazer lim...
+
+594
+00:56:15,930 --> 00:56:19,900
+<i>- Ligação do hotel da Ferrovia
+- Pode passar.</i>
+
+595
+00:56:21,940 --> 00:56:23,900
+Quem é?
+
+596
+00:56:24,940 --> 00:56:26,900
+Alô! Quem é?
+
+597
+00:56:26,940 --> 00:56:30,910
+<i>Guido, não me sinto bem. A água
+me fez mal, estou com febre.</i>
+
+598
+00:56:30,950 --> 00:56:32,910
+<i>Venha para cá, rápido!</i>
+
+599
+00:56:32,950 --> 00:56:34,910
+A esta hora? Agora não posso!
+
+600
+00:56:34,950 --> 00:56:36,910
+<i>- Amanhã eu vou.
+- Venha!</i>
+
+601
+00:56:36,950 --> 00:56:40,910
+Pobre senhora, chamava tanto
+o senhor! O gelo.
+
+602
+00:56:43,920 --> 00:56:46,880
+Está ardendo. Deve estar com
+uns 40 graus!
+
+603
+00:56:47,960 --> 00:56:50,880
+- Trago as ervilhas?
+- Ervilhas?
+
+604
+00:56:50,960 --> 00:56:54,880
+Ela pediu ervilhas quando delirava.
+Acho que é um bom sinal.
+
+605
+00:56:54,970 --> 00:56:57,890
+- Não, esqueça as ervilhas.
+- Precisando, é só chamar.
+
+606
+00:57:03,980 --> 00:57:04,850
+Carla.
+
+607
+00:57:07,940 --> 00:57:10,860
+Já teve febre alta assim
+de repente antes?
+
+608
+00:57:14,940 --> 00:57:18,860
+Sim, por qualquer coisa, ela logo
+sobe para 39 ou 40.
+
+609
+00:57:19,950 --> 00:57:23,870
+Depois passa. Meu marido já está
+acostumado, nem se assusta.
+
+610
+00:57:23,950 --> 00:57:29,870
+- Fique deitada, não se descubra!
+- Estou com calor! Sinto sede!
+
+611
+00:57:29,960 --> 00:57:31,880
+Espere, eu lhe dou água.
+Tome.
+
+612
+00:57:34,960 --> 00:57:36,880
+Devagar, vai ficar inchada!
+
+613
+00:57:39,960 --> 00:57:43,840
+- É de dia, ou de noite.
+- Como assim? São 16:00.
+
+614
+00:57:43,930 --> 00:57:46,850
+Vamos esperar para ver o
+que o médico diz.
+
+615
+00:57:46,930 --> 00:57:51,850
+Talvez devêssemos avisar o seu
+marido. É muita responsabilidade!
+
+616
+00:57:51,930 --> 00:57:54,810
+- Não, não!
+- Acho que ele devia ser avisado.
+
+617
+00:57:54,940 --> 00:57:58,810
+Não quero que tudo acabe!
+Ele iria me levar embora.
+
+618
+00:57:58,900 --> 00:58:01,820
+Comprei tantos vestidinhos
+lindos...
+
+619
+00:58:01,900 --> 00:58:05,820
+Por quê foi beber tanta água?
+É para doentes! Estava doente?
+
+620
+00:58:05,900 --> 00:58:08,820
+Você não pode ver um copo
+cheio, não é?
+
+621
+00:58:08,910 --> 00:58:12,830
+O que eu ia fazer? Você me
+deixa sempre sozinha.
+
+622
+00:58:16,910 --> 00:58:20,830
+Já fiz meu testamento há dois
+anos. Verdade!
+
+623
+00:58:20,920 --> 00:58:23,840
+Afinal, não é que eu vá morrer
+antes por causa disto.
+
+624
+00:58:23,920 --> 00:58:28,840
+É que, como eu também tenho
+um irmão e uma irmã,...
+
+625
+00:58:28,920 --> 00:58:32,890
+queria que o apartamento ficasse
+com meu marido.
+
+626
+00:58:32,930 --> 00:58:36,890
+O apartamento é meu. Senão como
+o coitadinho ia ficar?
+
+627
+00:58:36,930 --> 00:58:40,890
+Mesmo que ele se case com
+outra. O lençol!
+
+628
+00:58:43,890 --> 00:58:47,860
+Guido, diga a verdade,...
+
+629
+00:58:49,900 --> 00:58:53,820
+a verdade mesmo.Por que
+você fica comigo?
+
+630
+00:58:54,860 --> 00:58:58,820
+<i>O que eu vou dizer ao
+cardeal amanhã?</i>
+
+631
+00:58:59,870 --> 00:59:04,830
+Sim, li a folha que o seu produtor
+mandou. Assaz interessante.
+
+632
+00:59:04,870 --> 00:59:07,830
+No que tange ao realismo,
+porem,...
+
+633
+00:59:07,870 --> 00:59:10,830
+o encontro entre o protagonista
+e um príncipe da Igreja,...
+
+634
+00:59:10,880 --> 00:59:13,840
+não poderia se dar num banho de
+lama, como o senhor quer.
+
+635
+00:59:13,880 --> 00:59:17,840
+Lamento, mas é impossível. Um alto
+prelado tem cabine própria.
+
+636
+00:59:17,880 --> 00:59:20,840
+É que eu queria um encontro
+não convencional.
+
+637
+00:59:20,880 --> 00:59:22,840
+Em que sentido?
+
+638
+00:59:22,890 --> 00:59:24,850
+Meu protagonista teve uma
+educação católica, e...
+
+639
+00:59:25,890 --> 00:59:28,890
+- Este é o Sr. Guido Anselmi.
+- Prazer.
+
+640
+00:59:28,930 --> 00:59:30,860
+- O senhor é o diretor?
+- Sim.
+
+641
+00:59:30,890 --> 00:59:33,890
+Trata-se de um filme de
+fundo religioso?
+
+642
+00:59:33,940 --> 00:59:36,900
+De certo modo. Como eu dizia,
+o protagonista teve...
+
+643
+00:59:36,940 --> 00:59:40,900
+como todos nós, uma
+educação católica...
+
+644
+00:59:40,940 --> 00:59:45,780
+que causou certos complexos,
+certas exigências irreprimíveis.
+
+645
+00:59:45,910 --> 00:59:51,790
+O cardeal conhece a verdade que,
+embora ele não aceite, o fascina...
+
+646
+00:59:51,870 --> 00:59:55,790
+e ele procura um contato, uma
+ajuda. Iluminação talvez.
+
+647
+00:59:55,870 --> 00:59:59,790
+- Como Saulo em Damasco.
+- É a esperança de todos nós.
+
+648
+00:59:59,880 --> 01:00:02,800
+Talvez seja um discurso genérico
+e até desajeitado...
+
+649
+01:00:02,880 --> 01:00:05,800
+Não é isso. É que o cinematógrafo,
+a meu ver...
+
+650
+01:00:05,880 --> 01:00:08,800
+não é tão adequado a
+certos assuntos.
+
+651
+01:00:08,880 --> 01:00:12,810
+Vocês mesclam com desenvoltura de
+mais o amor sacro e o profano.
+
+652
+01:00:12,890 --> 01:00:14,810
+- Não é verdade?
+- Depende. Talvez.
+
+653
+01:00:14,890 --> 01:00:16,810
+É uma grande responsabilidade.
+
+654
+01:00:16,890 --> 01:00:19,810
+Vocês podem educar ou corromper
+milhões de almas.
+
+655
+01:00:19,890 --> 01:00:24,860
+Sua Eminência o ouvira de bom grado.
+Pode fazer suas perguntas.
+
+656
+01:00:28,940 --> 01:00:31,860
+Eminência, este é o diretor.
+
+657
+01:00:33,950 --> 01:00:35,860
+Sente-se.
+
+658
+01:00:36,950 --> 01:00:40,870
+Desculpe importuná-lo. Eu não
+queria, mas o meu produtor...
+
+659
+01:00:40,950 --> 01:00:46,830
+está tomado por inquietações,
+quiçá justificadas, e insistiu.
+
+660
+01:00:47,960 --> 01:00:49,840
+- O senhor é casado?
+- Sim.
+
+661
+01:00:49,920 --> 01:00:52,840
+- Tem filhos?
+- Sim. Isto é, não.
+
+662
+01:00:53,920 --> 01:00:55,840
+- Que idade tem?
+-43 anos.
+
+663
+01:00:59,930 --> 01:01:02,850
+- Está ouvindo esse cantor?
+- Perdão?
+
+664
+01:01:02,930 --> 01:01:04,850
+- Sabe como se chama?
+- Não.
+
+665
+01:01:05,930 --> 01:01:12,860
+Chama-se “diomedeo”. Diz a lenda
+que, quando Diomedes morreu,...
+
+666
+01:01:12,940 --> 01:01:17,860
+todos estes pássaros se reuniram
+e cantaram um coro fúnebre,...
+
+667
+01:01:17,940 --> 01:01:20,860
+que o acompanhou até
+a sepultura.
+
+668
+01:01:21,950 --> 01:01:24,910
+Ouviu? Parecem soluços.
+
+669
+01:01:57,890 --> 01:02:00,860
+Guido, Guido vamos
+ver a Saraghina!
+
+670
+01:02:08,900 --> 01:02:10,860
+Já vou!
+
+671
+01:02:25,960 --> 01:02:27,920
+Saraghina!
+
+672
+01:02:30,960 --> 01:02:32,920
+Saraghina!
+
+673
+01:02:43,890 --> 01:02:48,810
+Saraghina, a rumba!
+Tome o dinheiro!
+
+674
+01:05:37,870 --> 01:05:41,840
+Vergonha! Vergonha!
+Vergonha!
+
+675
+01:05:41,880 --> 01:05:43,750
+É um pecado mortal, é um
+pecado mortal...
+
+676
+01:05:43,840 --> 01:05:45,760
+Não acredito, não é possível...
+
+677
+01:05:48,840 --> 01:05:50,760
+Olhe para a sua mãe! Olhe!
+
+678
+01:05:51,840 --> 01:05:55,760
+- Mamãe!
+- Pare! Meu Deus, que vergonha!
+
+679
+01:05:57,850 --> 01:05:59,810
+Que vergonha, quanta dor!
+
+680
+01:06:35,880 --> 01:06:39,800
+Mas, sobretudo, o pio Luis
+abominou por toda a vida...
+
+681
+01:06:39,890 --> 01:06:44,760
+e em todo lugar em que morou, o
+falar e o lidar com mulheres...
+
+682
+01:06:44,810 --> 01:06:48,770
+fugindo delas de tal modo
+que se podia dizer...
+
+683
+01:06:48,810 --> 01:06:52,770
+que tinha por elas natural
+antipatia.
+
+684
+01:06:52,810 --> 01:06:54,810
+Ajoelhe!
+
+685
+01:06:57,860 --> 01:07:01,820
+e mesmo quando falava
+a sós com ela...
+
+686
+01:07:24,840 --> 01:07:27,800
+Não sabe que a Saraghina
+é o demônio?
+
+687
+01:07:27,840 --> 01:07:30,800
+Eu não sabia, verdade!
+
+688
+01:08:36,860 --> 01:08:38,780
+Qual o significado?
+
+689
+01:08:42,780 --> 01:08:44,740
+É uma personagem da
+sua infância.
+
+690
+01:08:44,780 --> 01:08:48,750
+Nada tem a ver com a verdadeira
+consciência crítica.
+
+691
+01:08:49,830 --> 01:08:53,750
+Se quiser realmente polemizar sobre
+o catolicismo na Itália...
+
+692
+01:08:53,830 --> 01:08:58,750
+meu caro amigo, acredite, é
+necessário em primeiro lugar...
+
+693
+01:08:58,840 --> 01:09:01,710
+um nível cultural muito
+mais elevado...
+
+694
+01:09:02,840 --> 01:09:06,720
+e uma lógica de lucidez
+inexorável.
+
+695
+01:09:07,800 --> 01:09:13,720
+Perdoe-me, mas a sua tenra
+ignorância é totalmente negativa.
+
+696
+01:09:13,810 --> 01:09:17,730
+Tais pequenas recordações
+cheias de nostalgia,...
+
+697
+01:09:17,810 --> 01:09:22,730
+tão inofensivas e até emotivas são
+reações de um cúmplice.
+
+698
+01:09:22,820 --> 01:09:26,740
+E o pároco disse: “Como? De um
+comunista? ”Não disse “homem”.
+
+699
+01:09:26,820 --> 01:09:28,740
+A consciência católica?
+
+700
+01:09:31,820 --> 01:09:35,740
+Pense no que foi Suetôniona
+época dos Césares!
+
+701
+01:09:36,830 --> 01:09:40,750
+Não, o senhor parte com a
+ambição da denúncia...
+
+702
+01:09:41,790 --> 01:09:45,750
+e chega com a parcialidade
+de um cúmplice!
+
+703
+01:09:45,840 --> 01:09:48,750
+Percebe toda a confusão
+e a ambigüidade?
+
+704
+01:09:55,840 --> 01:10:00,720
+Meu caro doutor! Estou muito zangada
+como o senhor, sabia?
+
+705
+01:10:00,850 --> 01:10:03,730
+- Já não precisa mais de mim.
+- Isso não é verdade!
+
+706
+01:10:04,810 --> 01:10:07,730
+127: ducha e banho de lama!
+
+707
+01:10:07,810 --> 01:10:13,730
+129: massagens!
+131: inalações!
+
+708
+01:10:15,820 --> 01:10:21,740
+<i>137: inalações!
+145: massagens!</i>
+
+709
+01:10:23,830 --> 01:10:30,750
+<i>147: ducha e banho de lama!
+149: inalações!</i>
+
+710
+01:10:30,830 --> 01:10:32,750
+Olá, Comendador!
+
+711
+01:10:33,830 --> 01:10:36,750
+Entendi o que você quer narrar.
+
+712
+01:10:37,840 --> 01:10:40,800
+Quer narrar a confusão que um
+homem traz dentro de si.
+
+713
+01:10:40,840 --> 01:10:45,800
+Só que precisa ser claro, inteligível,
+senão, de que adianta?
+
+714
+01:10:48,890 --> 01:10:50,810
+Guido, vamos!
+
+715
+01:10:52,890 --> 01:10:57,770
+<i>Atenção: Dr. De Angelis, dirija-se
+à saia de repouso.</i>
+
+716
+01:11:00,900 --> 01:11:03,780
+Se o que vai dizer é interessante,
+deve interessar a todos.
+
+717
+01:11:03,860 --> 01:11:07,780
+Por que não deveria se preocupar,
+se vão entender ou não?
+
+718
+01:11:07,870 --> 01:11:12,790
+Desculpe, mas isso é orgulho e
+presunção, e não deve fazê-lo.
+
+719
+01:11:13,870 --> 01:11:17,790
+Comendador, desça. Respire fundo.
+Olá, Guido.
+
+720
+01:11:17,870 --> 01:11:20,790
+Guardei-lhe num lugar perto
+da saída de vapor.
+
+721
+01:11:20,870 --> 01:11:25,800
+Hoje fui ver a espaçonave. Já está
+com 50 metros de altura.
+
+722
+01:11:25,880 --> 01:11:27,800
+Maurizio, onde está você?
+
+723
+01:12:01,830 --> 01:12:05,750
+<i>Atenção, por favor...</i>
+
+724
+01:12:05,830 --> 01:12:09,750
+<i>Guido, Sua Eminência
+o aguarda.</i>
+
+725
+01:12:10,830 --> 01:12:16,760
+<i>Repetindo: Guido, Sua
+Eminência o aguarda.</i>
+
+726
+01:12:19,840 --> 01:12:23,760
+Aqui estão as roupas. Apresse-se o
+Cardeal está esperando.
+
+727
+01:12:23,850 --> 01:12:25,760
+Conte-lhe tudo, não esconda
+nada dele...
+
+728
+01:12:25,850 --> 01:12:29,770
+e, se puder, fale bem também de
+mim, de mim, de mim...
+
+729
+01:12:29,850 --> 01:12:32,810
+É uma ocasião e tanto! Imagine,
+o Cardeal!
+
+730
+01:12:32,850 --> 01:12:37,820
+Ele pode permitir tudo, até o meu
+divórcio no México, imagine!
+
+731
+01:12:37,900 --> 01:12:40,820
+Peça o meu divórcio no México.
+Para você ele não vai recusar!
+
+732
+01:12:40,900 --> 01:12:44,780
+E mostre-se devoto, caia de joelhos,
+beije o anel dele,...
+
+733
+01:12:44,820 --> 01:12:46,740
+chore, diga que está arrependido.
+
+734
+01:12:46,820 --> 01:12:50,740
+Com a benevolência deles, obterá
+tudo o que precisar.
+
+735
+01:12:51,790 --> 01:12:56,750
+Guido, veja lá, estamos
+nas suas mãos!
+
+736
+01:13:01,800 --> 01:13:04,760
+Somente 5 minutos.
+
+737
+01:13:19,810 --> 01:13:22,770
+Eminência, eu não sou feliz.
+
+738
+01:13:24,820 --> 01:13:29,820
+E por que deveria ser feliz?
+A sua tarefa não é essa.
+
+739
+01:13:31,860 --> 01:13:35,820
+Quem disse que viemos ao mundo
+para sermos felizes?
+
+740
+01:13:35,870 --> 01:13:38,830
+Orígenes diz, em suas homilias...
+
+741
+01:13:39,870 --> 01:13:43,710
+“Extra ecclesiam nulla salus”.
+
+742
+01:13:44,830 --> 01:13:47,710
+Fora da igreja não há salvação.
+
+743
+01:13:47,790 --> 01:13:51,710
+“Extra ecclesiam nemo salvatur.”
+
+744
+01:13:52,800 --> 01:13:56,720
+Fora da Igreja ninguém se salva.
+
+745
+01:13:58,800 --> 01:14:03,720
+“Salus extra ecclesiam nom est.”
+
+746
+01:14:04,810 --> 01:14:07,730
+Não há salvação fora da Igreja.
+
+747
+01:14:09,810 --> 01:14:14,730
+“Civitas dei.” Quem não está
+na “civitas dei”...
+
+748
+01:14:14,820 --> 01:14:18,740
+pertence à “civitas diaboli”!
+
+749
+01:14:42,760 --> 01:14:46,680
+Venham ver o grande fenômeno!
+O faquir Siva,...
+
+750
+01:14:46,760 --> 01:14:48,680
+que já quebrou todos
+os recordes!
+
+751
+01:14:48,760 --> 01:14:53,680
+Nosso experimento é controlado por
+famosos químicos europeus!
+
+752
+01:15:25,840 --> 01:15:28,750
+- Mais um lance: 30 mil!
+-35 mil!
+
+753
+01:15:28,840 --> 01:15:30,760
+-35 mil!
+-40 mil!
+
+754
+01:15:31,840 --> 01:15:37,760
+-40 mil, ótimo! Mais um lance!
+-50 mil!
+
+755
+01:15:38,800 --> 01:15:42,680
+50 mil! Já chegamos
+a 50 mil!
+
+756
+01:15:59,780 --> 01:16:01,700
+Quando chegou?
+
+757
+01:16:01,780 --> 01:16:04,700
+Às 17:00. Passamos no hotel,
+mas você não estava.
+
+758
+01:16:04,790 --> 01:16:06,700
+- Como vai você?
+- Bem.
+
+759
+01:16:08,790 --> 01:16:11,710
+- Com quem você veio?
+- Com Rosselia, Enrico e Tilde.
+
+760
+01:16:11,790 --> 01:16:13,750
+- E onde está Rosselia?
+- Aqui.
+
+761
+01:16:16,800 --> 01:16:20,760
+Que bom, você veio mesmo!
+Você está bem, sabia?
+
+762
+01:16:20,840 --> 01:16:22,760
+Olá, Rossa!
+
+763
+01:16:22,840 --> 01:16:26,760
+Faz um ano que dançamos
+juntos pela última vez.
+
+764
+01:16:28,850 --> 01:16:34,730
+Luisa, querida! Você é um amor.
+Fico feliz por você ter vindo.
+
+765
+01:16:34,810 --> 01:16:38,730
+É sempre assim. Basta,
+você estar longe...
+
+766
+01:16:38,810 --> 01:16:42,650
+E você se sente sozinho. É verdade?
+Sentiu minha falta?
+
+767
+01:16:44,740 --> 01:16:47,660
+E não tinha a companhia dessas
+belas mulheres?
+
+768
+01:16:47,740 --> 01:16:49,660
+Então reparou nelas?
+
+769
+01:16:49,740 --> 01:16:53,660
+E você ainda não teve nenhuma
+aventura? Pobre Guido!
+
+770
+01:16:53,740 --> 01:16:57,660
+- E a sua virilidade atlética?
+- Que perfume delicioso.
+
+771
+01:16:57,750 --> 01:16:59,670
+- Gostou?
+- Como você é leve!
+
+772
+01:16:59,750 --> 01:17:02,670
+E o seu trabalho, melhorou?
+
+773
+01:17:03,750 --> 01:17:06,710
+Não acho que fiz grandes
+progressos.
+
+774
+01:17:06,750 --> 01:17:10,720
+Do que se trata afinal? No que
+pensou desta vez?
+
+775
+01:17:11,800 --> 01:17:13,720
+Desculpem.
+
+776
+01:17:13,800 --> 01:17:17,720
+É impressão minha, ou Enrico
+gosta de você?
+
+777
+01:17:23,810 --> 01:17:25,690
+Ela é uma gracinha, não?
+
+778
+01:17:32,780 --> 01:17:36,700
+Muito bem! Boa noite, senhora,
+seja bem-vinda.
+
+779
+01:17:37,780 --> 01:17:40,700
+Maestro, estamos à sua inteira
+disposição. Vamos indo?
+
+780
+01:17:40,780 --> 01:17:42,660
+Sim, eu já vou.
+
+781
+01:17:42,700 --> 01:17:47,660
+Hoje a senhora verá de que loucuras
+é capaz um produtor.
+
+782
+01:17:47,710 --> 01:17:50,670
+Recuso-me a soltar a mão
+desta bela senhora!
+
+783
+01:17:50,710 --> 01:17:53,670
+Cono, ela é sensitiva!
+Lê pensamentos!
+
+784
+01:17:53,710 --> 01:17:57,670
+- Só podia ser você!
+- O seu espírito-guia.
+
+785
+01:17:57,720 --> 01:18:00,680
+Ou ainda tem este tipo de
+relacionamento como ele?
+
+786
+01:18:00,720 --> 01:18:03,220
+Comendador, esta é a
+minha irmã.
+
+787
+01:18:03,250 --> 01:18:05,720
+O seu diretor vive cercado
+de saias!
+
+788
+01:18:05,760 --> 01:18:10,730
+Comendador, acabo de concluir um
+roteiro sobre as armas nucleares.
+
+789
+01:18:10,770 --> 01:18:13,730
+Só alguém corajoso como o
+senhor poderia realizá-lo.
+
+790
+01:18:13,770 --> 01:18:16,730
+A bela maga também faz
+parte do harém?
+
+791
+01:18:16,770 --> 01:18:19,730
+Digamos que sou uma espécie
+de chefe da guarda.
+
+792
+01:18:19,780 --> 01:18:23,700
+E você, está melhor? A solidão
+lhe fez bem?
+
+793
+01:18:23,740 --> 01:18:26,700
+- Bem, já parece outra pessoa.
+- É?
+
+794
+01:18:26,740 --> 01:18:30,700
+Falando sério, como vai?
+Fiquei preocupada.
+
+795
+01:18:30,740 --> 01:18:34,700
+Fez bem em chamar Luisa. Ela ficou
+tão contente em vir!
+
+796
+01:18:34,750 --> 01:18:38,720
+Se não se importam, eu não vou.
+Não é indispensável que eu vá.
+
+797
+01:18:38,750 --> 01:18:42,630
+Não, meu caro, faço questão.
+Vá no carro de Conocchia.
+
+798
+01:18:42,710 --> 01:18:45,630
+- Vá com eles, querida. E Guido?
+- Não sei, estava aqui.
+
+799
+01:18:46,720 --> 01:18:48,630
+Rosselia, venha!
+
+800
+01:18:48,720 --> 01:18:51,640
+Sim, venha conosco, quero lhe
+contar um caso estranho.
+
+801
+01:18:51,720 --> 01:18:53,640
+- Minha irmã era freira...
+- Luisa, venha!
+
+802
+01:18:53,720 --> 01:18:59,680
+e morreu jovem. Uma noite, o seu
+retrato mudou de expressão!
+
+803
+01:18:59,730 --> 01:19:03,690
+Suba, Rosselia. Parecia que queria
+me avisar de algum perigo.
+
+804
+01:19:03,770 --> 01:19:05,690
+Eu vou na frente.
+
+805
+01:19:05,770 --> 01:19:10,690
+Uns dias depois, meu tio pediu para
+eu ir com ele ao mercado.
+
+806
+01:19:10,780 --> 01:19:15,660
+Ele tinha uma Isotta Fraschini.
+Estou falando de uma premonição.
+
+807
+01:19:41,720 --> 01:19:45,600
+O que acham? Só um louco
+confia neste diretor!
+
+808
+01:19:45,680 --> 01:19:47,600
+Agasalhem-se, está úmido.
+
+809
+01:19:50,690 --> 01:19:55,650
+- Onde está você, Renato?
+- Aqui, comendador! Boa noite!
+
+810
+01:19:55,690 --> 01:20:00,650
+Precisa estar pronto no dia 20.
+Venham. Olhem onde pisam.
+
+811
+01:20:00,740 --> 01:20:05,660
+- Estamos atrasados, não?
+- Não, já estamos com 70 metros.
+
+812
+01:20:05,740 --> 01:20:09,620
+O que há com Luisa? De repente
+ficou nervosa, grosseira!
+
+813
+01:20:09,740 --> 01:20:13,620
+Não sei, estava contente. Vai ver,
+foi algo que você disse.
+
+814
+01:20:13,710 --> 01:20:15,620
+O que é isto?
+
+815
+01:20:15,710 --> 01:20:21,670
+Acho isto fascinante. É o modelo
+que, com uma ilusão de ótica...
+
+816
+01:20:21,710 --> 01:20:25,630
+fará a nave aparecer na base de
+lançamento. Não é isto, Guido?
+
+817
+01:20:25,720 --> 01:20:26,630
+É sim.
+
+818
+01:20:26,720 --> 01:20:30,640
+É a base de lançamento da nave, a
+cena mais importante do filme.
+
+819
+01:20:30,720 --> 01:20:32,640
+Subam, não é perigoso.
+
+820
+01:20:33,720 --> 01:20:36,640
+- Nada de fotos.
+- Só uma, comendador!
+
+821
+01:20:36,730 --> 01:20:40,650
+Seu marido deu para a ficção
+científica agora?
+
+822
+01:20:40,730 --> 01:20:43,650
+Sei lá. Pergunte à ele.
+
+823
+01:20:43,730 --> 01:20:45,650
+Giancarlo escreveu uma bela
+história com marcianos.
+
+824
+01:20:46,730 --> 01:20:49,650
+Guido, que parque de
+diversões é este?
+
+825
+01:20:49,740 --> 01:20:53,700
+Dá para confiar nesta palafita?
+
+826
+01:20:53,740 --> 01:20:57,700
+Comendador, ouviu do que ela
+chamou a sua empreitada?
+
+827
+01:20:57,790 --> 01:21:02,710
+- Cesari', quantos kg de concreto?
+- Quilos? Toneladas; isso, sim!
+
+828
+01:21:02,790 --> 01:21:04,710
+400 toneladas.
+
+829
+01:21:04,790 --> 01:21:08,670
+Comendador, desculpe, vou ficar
+aqui. Sofro de vertigens.
+
+830
+01:21:08,790 --> 01:21:11,670
+Com 80 milhões dava para comprar
+10 apartamentos.
+
+831
+01:21:11,760 --> 01:21:15,680
+É uma palafita empertigada,
+igualzinha a ele.
+
+832
+01:21:15,760 --> 01:21:19,680
+A cunhadinha é ríspida com Guido.
+Apaixonou-se por ele?
+
+833
+01:21:19,760 --> 01:21:22,680
+O que? Vivo rezando para não se
+casar com alguém assim!
+
+834
+01:21:22,770 --> 01:21:26,690
+- Vamos subir mais ainda?
+- Quer que eu a leve no colo?
+
+835
+01:21:26,770 --> 01:21:30,690
+Quando penso que ele me fez
+gastar 80 milhões nisto!
+
+836
+01:21:30,770 --> 01:21:34,690
+Não seria melhor um pano
+de fundo pintado?
+
+837
+01:21:34,770 --> 01:21:38,700
+No tempo do seu avô, talvez.
+E o dinheiro lá é seu, Cono?
+
+838
+01:21:42,740 --> 01:21:46,700
+Está com frio?
+Quer o meu paletó?
+
+839
+01:21:46,740 --> 01:21:49,700
+Não, obrigado. Acho que logo
+voltaremos para o hotel.
+
+840
+01:21:52,790 --> 01:21:56,710
+Algo está errado. Você ficou
+triste de repente.
+
+841
+01:21:58,800 --> 01:22:03,680
+- Não é verdade?
+- Não estou nenhum pouco triste.
+
+842
+01:22:07,800 --> 01:22:13,680
+A cena começa com a terra destruída
+por uma guerra nuclear.
+
+843
+01:22:13,770 --> 01:22:17,690
+Guido parece estar contente
+em vê-la. Fala sério!
+
+844
+01:22:17,770 --> 01:22:21,690
+<i>A espaçonave, qual arca de Noé,
+tenta salvar...</i>
+
+845
+01:22:21,770 --> 01:22:24,690
+<i>o que resta da humanidade,
+levando-a para outro planeta.</i>
+
+846
+01:22:24,780 --> 01:22:29,700
+<i>Mais de 10 mil figurantes, talvez
+15 mil, uma multidão...</i>
+
+847
+01:22:29,780 --> 01:22:32,700
+Ora! Veremos mesmo tudo
+isso no seu filme?
+
+848
+01:22:32,780 --> 01:22:37,700
+Nossa! O profeta faz voz grossa,
+resolveu meter medo em todos.
+
+849
+01:22:37,790 --> 01:22:40,710
+Gosta de histórias em que
+nada acontece?
+
+850
+01:22:41,750 --> 01:22:43,670
+No meu filme, vai acontecer
+de tudo.
+
+851
+01:22:44,710 --> 01:22:48,670
+Vou pôr tudo nele. Até o
+marinheiro sapateando.
+
+852
+01:22:48,760 --> 01:22:51,680
+- Marinheiro, vem cá!
+- Água, água, água!
+
+853
+01:22:51,760 --> 01:22:55,680
+Não, não quero água. Dance,
+terá um papel no filme.
+
+854
+01:22:56,760 --> 01:22:57,680
+Dance!
+
+855
+01:23:05,730 --> 01:23:08,650
+O que acontece com você,
+Guido?
+
+856
+01:23:08,730 --> 01:23:12,650
+Pare, odeio esse tom de
+irmã mais velha!
+
+857
+01:23:12,730 --> 01:23:15,650
+Sr. Diretor, qual será o
+meu papel?
+
+858
+01:23:21,740 --> 01:23:24,660
+O que Luisa pensa de mim?
+O que quer fazer?
+
+859
+01:23:24,740 --> 01:23:27,660
+- Qual será o meu papel, qual?
+- Vá embora, marinheiro!
+
+860
+01:23:28,750 --> 01:23:32,670
+Ela não fala muito, nem comigo,
+a sua melhor amiga.
+
+861
+01:23:32,750 --> 01:23:36,670
+Não sei o que ela quer fazer.
+Está sem rumo.
+
+862
+01:23:36,760 --> 01:23:39,720
+Cada dia diz uma
+coisa diferente.
+
+863
+01:23:39,760 --> 01:23:44,680
+Infelizmente, acho que ela só queria
+que você fosse diferente.
+
+864
+01:23:44,720 --> 01:23:48,680
+- Mas por quê?
+- Esse é um erro muito comum.
+
+865
+01:23:50,730 --> 01:23:55,650
+Aquele sujeito gentil a corteja,
+está apaixonado?
+
+866
+01:23:55,730 --> 01:24:02,610
+Seria bom, não? A consciência te
+pesaria menos. É um safado!
+
+867
+01:24:02,690 --> 01:24:07,660
+Pobre Enrico! É tão desajeitado e
+sensível, que todos percebem.
+
+868
+01:24:07,700 --> 01:24:12,660
+Ele fica perto dela, a escuta, lhe
+faz companhia, é um ótimo amigo.
+
+869
+01:24:16,700 --> 01:24:18,670
+Minhas idéias pareciam
+tão claras!
+
+870
+01:24:19,710 --> 01:24:23,670
+Eu queria fazer um filme honesto,
+sem nenhuma mentira.
+
+871
+01:24:23,710 --> 01:24:26,670
+Achava que tinha algo tão
+simples a dizer!
+
+872
+01:24:26,710 --> 01:24:32,680
+O meu filme seria um pouco útil
+para todos e ajudaria...
+
+873
+01:24:32,720 --> 01:24:36,720
+a enterrar o que de morto
+carregamos.
+
+874
+01:24:39,770 --> 01:24:43,650
+Mas sou o primeiro a não ter
+coragem de enterrar nada.
+
+875
+01:24:44,730 --> 01:24:50,610
+Agora tenho a cabeça confusa e
+esta torre no meio dos pés.
+
+876
+01:24:53,700 --> 01:24:56,620
+Por quê as coisas
+ficaram assim?
+
+877
+01:24:58,700 --> 01:25:01,620
+Em que momento errei
+o caminho?
+
+878
+01:25:03,700 --> 01:25:08,630
+Não tenho nada a dizer, mas
+quero dizê-lo assim mesmo.
+
+879
+01:25:10,710 --> 01:25:14,630
+Por quê os seus espíritos
+não me ajudam?
+
+880
+01:25:14,710 --> 01:25:18,630
+Sempre tinham tantas mensagens
+para mim. Pois que falem!
+
+881
+01:25:18,720 --> 01:25:22,640
+Já falei que a sua atitude em
+relação a eles é errada, Guido.
+
+882
+01:25:22,720 --> 01:25:25,640
+Você é curioso, e sua
+curiosidade é infantil.
+
+883
+01:25:25,720 --> 01:25:29,640
+- E você quer garantias demais.
+- Está bem, mas o que ele dizem?
+
+884
+01:25:29,730 --> 01:25:32,690
+Sempre a mesma coisa, até
+neste momento.
+
+885
+01:25:32,730 --> 01:25:35,690
+São espíritos compreensivos,
+conhecem bem você.
+
+886
+01:25:35,770 --> 01:25:37,690
+E então?
+
+887
+01:25:38,780 --> 01:25:43,570
+Dizem que você é livre, mas
+precisa saber escolher.
+
+888
+01:25:43,700 --> 01:25:47,580
+E já não lhe resta muito tempo.
+Precisa agir logo.
+
+889
+01:25:50,660 --> 01:25:54,580
+Guido, você vai subir,
+ou não vai?
+
+890
+01:26:42,710 --> 01:26:45,580
+<i>- O quarto 320.
+- O hóspede ainda não voltou.</i>
+
+891
+01:27:29,750 --> 01:27:33,670
+- Está com dor de cabeça?
+- Não, é um tranqüilizante.
+
+892
+01:27:34,750 --> 01:27:39,630
+- Você toma sempre?
+- Às vezes, para dormir.
+
+893
+01:27:42,630 --> 01:27:44,550
+Por quê a preocupação agora?
+
+894
+01:28:09,660 --> 01:28:12,570
+- O que é?
+- Nada. Devia ver a sua cara!
+
+895
+01:28:12,660 --> 01:28:14,580
+Por quê está rindo?
+
+896
+01:28:14,660 --> 01:28:19,620
+Acho que eu nunca trairia você. Para
+começar, detesto o ridículo...
+
+897
+01:28:19,660 --> 01:28:23,630
+o esforço de ter de se esconder,
+de mentir...
+
+898
+01:28:23,710 --> 01:28:26,630
+mas para você,
+isto parece fácil!
+
+899
+01:28:26,710 --> 01:28:30,630
+Luisa, me dá muito prazer
+você estar aqui,...
+
+900
+01:28:30,710 --> 01:28:34,590
+mas tenha paciência, estou muito
+cansado, tenho sono.
+
+901
+01:28:38,680 --> 01:28:41,600
+Então durma!
+Boa noite!
+
+902
+01:28:48,600 --> 01:28:51,570
+Não sei o que você espera
+descobrir na minha vida,...
+
+903
+01:28:51,610 --> 01:28:54,570
+reduzindo tudo à mesquinhez de
+quem assalta a despensa!
+
+904
+01:28:54,610 --> 01:28:57,570
+O que você sabe da minha vida, do
+que eu tenho e não tenho?
+
+905
+01:28:57,610 --> 01:29:00,570
+Só aquilo que você me mostra.
+
+906
+01:29:04,620 --> 01:29:08,580
+E o que eu mostro? Vamos,
+diga o que você vê!
+
+907
+01:29:08,620 --> 01:29:11,590
+Aonde quer chegar com esse seu
+julgamento moralista?
+
+908
+01:29:11,620 --> 01:29:16,630
+A lugar nenhum. Só sei que estamos
+no mesmo lugar a anos.
+
+909
+01:29:16,670 --> 01:29:21,630
+É você que sempre quer recomeçar,
+me chama e acha que mudou!
+
+910
+01:29:21,670 --> 01:29:26,640
+Eu não quero recomeçar nada!
+O que você quer afinal?
+
+911
+01:29:26,680 --> 01:29:30,600
+Por quê me fez vir para cá?
+Que utilidade tenho?
+
+912
+01:29:30,680 --> 01:29:33,600
+O que está querendo comigo?
+O que você quer?
+
+913
+01:30:53,670 --> 01:30:57,590
+Fique calmo, já a vi ontem à
+noite, assim que cheguei.
+
+914
+01:31:06,680 --> 01:31:09,640
+- Juro que...
+- Não perguntei. Não quero saber.
+
+915
+01:31:09,730 --> 01:31:13,650
+Poupe-me só a vergonha de ouvir
+você jurar em falso.
+
+916
+01:31:17,730 --> 01:31:22,610
+Deve ter nascido em março ou abril.
+É bem o tipinho de Áries.
+
+917
+01:31:22,740 --> 01:31:25,610
+Eu sei que tipo ela é!
+
+918
+01:31:25,700 --> 01:31:29,620
+É? São justamente esses tipos
+que têm mais facilidade...
+
+919
+01:31:29,700 --> 01:31:33,620
+em serem boas companheiras para
+homens fracos, abúlicos, confusos!
+
+920
+01:31:35,710 --> 01:31:40,630
+Luisa, eu não sabia! Vejo-a pela
+primeira vez agora, como vocês.
+
+921
+01:31:41,670 --> 01:31:44,550
+Afinal, neste lugar vem
+tanta gente,...
+
+922
+01:31:44,630 --> 01:31:47,590
+que pode acontecer de aparecer
+também essa desgraçada.
+
+923
+01:31:49,630 --> 01:31:52,600
+Por isso você está me atormentando
+desde ontem?
+
+924
+01:31:53,640 --> 01:31:55,600
+Por quê não disse logo?
+
+925
+01:31:57,640 --> 01:32:02,650
+Ofende-me vocês pensarem que eu
+ande com uma perua daquelas!
+
+926
+01:32:02,680 --> 01:32:05,650
+- Repararam nas roupas dela?
+- Que tal darmos uma volta?
+
+927
+01:32:05,690 --> 01:32:09,650
+Não falemos mais neste caso. Já
+está encerrado há 3 anos.
+
+928
+01:32:13,700 --> 01:32:18,620
+Isso me põe louca. Fala como se
+fosse verdade, banca o honesto!
+
+929
+01:32:18,700 --> 01:32:21,620
+Olhe para ele.
+Têm razão, sabia?
+
+930
+01:32:22,660 --> 01:32:25,620
+Como consegue viver
+desta maneira?
+
+931
+01:32:26,670 --> 01:32:31,630
+Não é justo mentir sempre assim,
+não separar o verdadeiro do falso!
+
+932
+01:32:31,670 --> 01:32:33,630
+Será possível que para você
+é tudo igual?
+
+933
+01:32:33,670 --> 01:32:37,640
+Desculpe, você tem razão.
+Eu sou uma chata.
+
+934
+01:32:38,680 --> 01:32:41,640
+É triste fazer o papel da burguesa,
+da que não entende.
+
+935
+01:32:43,810 --> 01:32:47,770
+Mas o que devo fazer? Diga você.
+Rir, como você, eu não consigo.
+
+936
+01:32:47,810 --> 01:32:49,770
+Eu não rio disso, querida.
+
+937
+01:32:51,810 --> 01:32:54,770
+O que você conta a ela?
+O que você diz?
+
+938
+01:32:59,860 --> 01:33:02,820
+Enoja-me saber que você a
+pôs na nossa vida,...
+
+939
+01:33:02,860 --> 01:33:05,830
+e que ela sabe tudo
+sobre nós dois.
+
+940
+01:33:06,870 --> 01:33:09,830
+Aquela puta. Vaca!
+
+941
+01:33:12,910 --> 01:33:15,880
+Você também é um saco,
+sabia?
+
+942
+01:33:22,920 --> 01:33:24,880
+No entanto...
+
+943
+01:33:48,450 --> 01:33:53,410
+- Como canta bem, Sra. Carla!
+- Sou só uma amadora.
+
+944
+01:33:53,450 --> 01:33:57,370
+E como é bonitinha! Há muito
+tempo queria conhecê-la.
+
+945
+01:33:57,410 --> 01:33:59,370
+Eu também.
+
+946
+01:34:04,420 --> 01:34:06,380
+É tão elegante!
+
+947
+01:34:07,420 --> 01:34:11,380
+A senhora é que é. Eu francamente,
+sou meio cafona.
+
+948
+01:34:11,420 --> 01:34:13,380
+Que nada, esse vestido
+é tão fino!
+
+949
+01:34:13,420 --> 01:34:18,300
+Gostou? Vi o modelo na “Vogue”.
+Procurei tanto por ele!
+
+950
+01:34:18,390 --> 01:34:21,310
+Mas quando eu cismo com
+alguma coisa...
+
+951
+01:34:34,400 --> 01:34:39,360
+- Lá está ele!
+- Lá está ele! Guido chegou!
+
+952
+01:34:41,450 --> 01:34:45,370
+Boa noite, mulheres! Fechem, está
+frio, cai uma nevasca.
+
+953
+01:34:45,450 --> 01:34:49,370
+Como vão vocês, tudo bem? Olhem,
+os pacotes têm nome.
+
+954
+01:34:49,460 --> 01:34:52,330
+Não vão trocá-los.
+Este é de Caterina,...
+
+955
+01:34:52,460 --> 01:34:54,330
+Ele é um amor!
+
+956
+01:34:54,460 --> 01:34:58,340
+e este é da cunhadinha, que
+finalmente gosta de mim,...
+
+957
+01:34:58,420 --> 01:35:01,340
+pois entendeu que é
+para ser assim.
+
+958
+01:35:01,420 --> 01:35:04,340
+- Vamos preparar o seu banho.
+- Glória, já sabe o que é, não?
+
+959
+01:35:04,430 --> 01:35:07,350
+Preciso falar com você,
+Guido.
+
+960
+01:35:07,430 --> 01:35:12,350
+Eu sei o que ela quer dizer!
+Vamos expulsá-la, é ciumenta!
+
+961
+01:35:12,430 --> 01:35:15,270
+O que está fazendo
+lá em cima?
+
+962
+01:35:15,350 --> 01:35:19,270
+Fui ver aquelas coitadinhas, sempre
+sozinhas. Se eu não for...
+
+963
+01:35:19,360 --> 01:35:23,280
+Não serve para o papel! É só uma
+pequeno-burguesa sem classe!
+
+964
+01:35:23,360 --> 01:35:27,280
+Deixem-no em paz, está cansado,
+precisa tomar banho!
+
+965
+01:35:27,360 --> 01:35:30,320
+É maravilhoso, Guido! Eu sempre
+quis um assim!
+
+966
+01:35:30,360 --> 01:35:33,330
+Gloria, Carla, Edy, peguem
+os baldes!
+
+967
+01:35:35,410 --> 01:35:40,330
+Guido, meu marido escreveu. Posso
+visitá-lo, só no reveillon?
+
+968
+01:35:40,420 --> 01:35:43,330
+- Se quiser, digo que não posso.
+- Acho que pode.
+
+969
+01:35:43,420 --> 01:35:45,290
+Vamos, Carlotta.
+
+970
+01:35:49,380 --> 01:35:52,300
+- Quem é aquela negrinha?
+- A nossa surpresa. Vem do Havaí!
+
+971
+01:35:52,380 --> 01:35:54,300
+Não lembra?
+
+972
+01:35:55,390 --> 01:35:57,310
+Você falava tanto nela!
+
+973
+01:36:03,390 --> 01:36:07,310
+Obrigado, Luisa. Você é tão gentil!
+Que bela lembrança!
+
+974
+01:36:15,320 --> 01:36:19,280
+- Essa tiara é minha!
+- Eu sei, depois eu devolvo.
+
+975
+01:36:23,330 --> 01:36:26,330
+- Que emoção revê-la aqui.
+- Como vai?
+
+976
+01:36:27,370 --> 01:36:32,340
+Bem. Satisfaça a minha curiosidade,
+quem é a senhora?
+
+977
+01:36:32,380 --> 01:36:36,340
+O nome não importa. Sou feliz
+aqui, não me pergunte nada.
+
+978
+01:36:36,380 --> 01:36:39,300
+- Eu posso ficar?
+- Claro, lindinha!
+
+979
+01:36:40,380 --> 01:36:43,300
+- Agora estou ocupado.
+- Mas depois...
+
+980
+01:36:46,350 --> 01:36:51,310
+- O que faz aqui, Rosselia?
+- Sou o Grilo Falante. Incomodo?
+
+981
+01:36:51,350 --> 01:36:55,310
+- Não. Por quê está rindo?
+- Quero ver como se sai.
+
+982
+01:36:55,360 --> 01:36:59,320
+finalmente tem o seu harém,
+não é, rei Salomão?
+
+983
+01:36:59,360 --> 01:37:01,320
+- Não estava na hora?
+- Estava, claro.
+
+984
+01:37:05,360 --> 01:37:07,320
+Ponham-me lá dentro!
+
+985
+01:37:08,370 --> 01:37:11,330
+Guido, escute: não está com
+um pouco de medo?
+
+986
+01:37:11,370 --> 01:37:13,330
+Medo de quê? Tudo está
+indo bem.
+
+987
+01:37:13,370 --> 01:37:17,330
+Posso ficar? É tão divertido! Não
+quero nada, só olhar.
+
+988
+01:37:17,370 --> 01:37:21,340
+- Há um regulamento, como sabe.
+- Venha, ajude-me.
+
+989
+01:37:24,380 --> 01:37:27,380
+Guido, são penas de avestruz.
+Gostou?
+
+990
+01:37:27,420 --> 01:37:32,390
+- Olá, Edy. É lindo!
+- Que regulamento é esse?
+
+991
+01:37:33,430 --> 01:37:38,350
+Não sei. Ele me prometeu um papel
+com muitas trocas de roupa.
+
+992
+01:37:43,400 --> 01:37:46,360
+Chega, garotas, tirem-me daqui!
+
+993
+01:37:48,400 --> 01:37:51,360
+- Gloria, o talco!
+- Claro, claro!
+
+994
+01:37:53,400 --> 01:37:58,370
+Nem imagina o que sua mulher fez
+para o jantar. Tem até coelho!
+
+995
+01:37:58,410 --> 01:38:00,370
+- Estão contentes, garotas?
+- Mais contentes, impossível.
+
+996
+01:38:00,410 --> 01:38:02,370
+Não é o que sempre
+desejaram?
+
+997
+01:38:02,410 --> 01:38:06,370
+Claro. Não existe nada
+melhor no mundo.
+
+998
+01:38:06,420 --> 01:38:09,380
+Nadine, traga logo o pó-de-arroz,
+sua nojenta!
+
+999
+01:38:09,420 --> 01:38:12,380
+Nadine, o que você dizia em
+Copenhague?
+
+1000
+01:38:12,420 --> 01:38:15,300
+Delicia-nos pedir aos passageiros
+deste vôo...
+
+1001
+01:38:15,380 --> 01:38:19,340
+que passem a noite aqui em...
+- Ouçam. Que voz, não?
+
+1002
+01:38:19,390 --> 01:38:23,350
+Todas as despesas serão pela
+companhia aérea.
+
+1003
+01:38:23,430 --> 01:38:26,350
+Uma noite feliz para todos.
+
+1004
+01:38:31,440 --> 01:38:34,310
+Madeleine, venha nos ajudar!
+
+1005
+01:38:34,440 --> 01:38:37,320
+- Saraghina!
+- Aqui! Também quero levá-lo!
+
+1006
+01:38:37,400 --> 01:38:41,320
+Coitado! A água estava quente
+demais, está vermelho!
+
+1007
+01:38:41,400 --> 01:38:45,320
+- Que belas pernas magras!
+- Como quando você era menino.
+
+1008
+01:38:45,410 --> 01:38:48,330
+Gosta de bancar o menino, mas
+é um tipo difícil, eu sei.
+
+1009
+01:38:48,410 --> 01:38:50,330
+Não confiem nele, eu já entendi,
+é um hipócrita.
+
+1010
+01:38:50,410 --> 01:38:52,330
+Não é um hipócrita!
+
+1011
+01:38:52,410 --> 01:38:55,330
+Não pode contar tudo a estranhas,
+precisa se defender!
+
+1012
+01:38:56,420 --> 01:39:00,340
+- Socorro, Guido!
+- Quem está gritando?
+
+1013
+01:39:00,420 --> 01:39:06,340
+É Jacqueline. Não quis subir com as
+velhas, então foi para o porão.
+
+1014
+01:39:06,430 --> 01:39:10,350
+É uma vergonha! Não quero ficar
+com aquelas bruxas velhas!
+
+1015
+01:39:10,430 --> 01:39:15,310
+Eu tenho 26 anos! Verifiquem no
+registro civil de Paris!
+
+1016
+01:39:16,390 --> 01:39:21,360
+“Jacqueline Bombon, 26 anos,
+4 de julho de 1938”!
+
+1017
+01:39:21,400 --> 01:39:26,360
+Vocês não têm o direito de me
+mandar subir! Ainda não é hora!
+
+1018
+01:39:26,400 --> 01:39:32,320
+Vejam que agilidade, que pernas!
+Vocês tem um bumbum assim?
+
+1019
+01:39:32,360 --> 01:39:36,330
+Vejam que peitos! Guido, não me
+mande lá para cima!
+
+1020
+01:39:36,370 --> 01:39:40,330
+- Não quero ir lá para cima!
+- É o regulamento.
+
+1021
+01:39:40,370 --> 01:39:43,330
+É o regulamento,
+é o regulamento.
+
+1022
+01:39:43,370 --> 01:39:46,330
+Calma, Jacqueline, lá em cima
+também é bom.
+
+1023
+01:39:46,380 --> 01:39:49,340
+- Não é verdade!
+- Tome o seu brinco.
+
+1024
+01:39:51,380 --> 01:39:56,340
+Você que sempre foi minha amiga,
+peça uma prorrogação para mim!
+
+1025
+01:39:56,380 --> 01:40:00,350
+Guido, não poderá dar-lhe
+uma prorrogação?
+
+1026
+01:40:00,390 --> 01:40:03,350
+Agora você também vem
+me encher o saco?
+
+1027
+01:40:03,390 --> 01:40:06,350
+Por favor, só por um ano!
+Só um ano, Guido!
+
+1028
+01:40:06,390 --> 01:40:09,350
+- Não tem prorrogação!
+- Eu não vou subir!
+
+1029
+01:40:09,400 --> 01:40:11,360
+- O que você disse?
+- Eu não vou subir!
+
+1030
+01:40:11,400 --> 01:40:14,370
+- Repita se tem coragem!
+- Não vou subir!
+
+1031
+01:40:14,400 --> 01:40:17,320
+Essa aí é louca! Eu falei que
+não devíamos pegá-la!
+
+1032
+01:40:17,400 --> 01:40:20,320
+Estude o regulamento,
+garota!
+
+1033
+01:40:20,410 --> 01:40:23,320
+Quem passar da idade-limite irá
+para os andares superiores...
+
+1034
+01:40:23,410 --> 01:40:26,290
+- onde será bem tratada.
+- Mas viverá só na recordação!
+
+1035
+01:40:26,410 --> 01:40:31,290
+- É ignóbil, absurdo, inaceitável!
+- Não devíamos ter aceitado.
+
+1036
+01:40:34,380 --> 01:40:37,290
+Não é justo!
+
+1037
+01:40:37,380 --> 01:40:41,300
+É um regulamento inventado por
+alguém doente!
+
+1038
+01:40:41,380 --> 01:40:44,300
+Um homem de verdade não
+liga para a idade!
+
+1039
+01:40:44,380 --> 01:40:48,300
+Na França, alguém assim seria
+a vergonha da nação!
+
+1040
+01:40:48,390 --> 01:40:52,310
+- Quer jogar fora nossos bagaços?
+- Guido, bem que elas têm razão!
+
+1041
+01:40:52,390 --> 01:40:56,310
+- Você é um monstro!
+- Eu adoro monstros.
+
+1042
+01:40:56,390 --> 01:41:00,310
+- Saímos da imaginação dele...
+- Esta é a noite da libertação!
+
+1043
+01:41:00,400 --> 01:41:03,320
+Viva Jacqueline, que abriu nossos
+olhos! Abaixo esse Barba-Azul!
+
+1044
+01:41:03,400 --> 01:41:06,320
+Temos o direito de ser
+amadas até os 60!
+
+1045
+01:41:08,400 --> 01:41:10,360
+Fora com ele!
+
+1046
+01:41:10,410 --> 01:41:14,410
+Até parece que ele é muito jovem!
+Contem-lhe que é um mau amante!
+
+1047
+01:41:14,440 --> 01:41:18,250
+- Só fala um pouco e faz carinhos!
+- E dorme logo.
+
+1048
+01:41:18,370 --> 01:41:20,250
+Não durmo, penso!
+
+1049
+01:41:20,370 --> 01:41:23,250
+Guido, não nos mande subir
+quando ficamos velhas!
+
+1050
+01:41:23,330 --> 01:41:25,250
+Quieta! Deita!
+
+1051
+01:41:27,340 --> 01:41:30,260
+A revolta já chegou
+lá em cima!
+
+1052
+01:41:35,340 --> 01:41:38,260
+delicioso! Incrível!
+
+1053
+01:41:38,350 --> 01:41:42,270
+Porco mentiroso! Eu vim de Paris,
+qual é o meu papel?
+
+1054
+01:41:42,350 --> 01:41:45,270
+Qual é o meu papel no filme?!
+
+1055
+01:41:50,360 --> 01:41:53,280
+- Gostava de me ver dançando!
+- Não gosto mais!
+
+1056
+01:41:54,360 --> 01:41:56,280
+Ajude-me, senhora!
+
+1057
+01:41:56,360 --> 01:42:02,330
+Não, são assuntos do meu marido.
+Está decidido, é o regulamento.
+
+1058
+01:42:02,370 --> 01:42:06,330
+- Depressa, a sopa está esfriando!
+- Não vê que estou ocupado?
+
+1059
+01:42:06,410 --> 01:42:08,330
+Que homem extraordinário!
+
+1060
+01:42:10,420 --> 01:42:13,330
+Ele precisa fazer isso.
+Faz quase toda noite.
+
+1061
+01:42:15,340 --> 01:42:19,260
+- Obrigada.
+- Não lembra de mais nada, Guido?
+
+1062
+01:42:19,300 --> 01:42:22,260
+Machucou-se, querido! Vou
+pegar uma pomada.
+
+1063
+01:42:22,300 --> 01:42:24,260
+- Não quero pomadas!
+- Um ungüento?
+
+1064
+01:42:24,300 --> 01:42:26,260
+- Não quero ungüentos!
+- Gotas?
+
+1065
+01:42:26,300 --> 01:42:30,270
+Ele não joga fora os bagaços.
+Pelo contrário, guarda tudo.
+
+1066
+01:42:30,310 --> 01:42:33,270
+A verdade é que ele é bom
+e paciente demais!
+
+1067
+01:42:59,330 --> 01:43:03,340
+- Ele não gosta de você!
+- Guido, posso partir agora?
+
+1068
+01:43:03,380 --> 01:43:07,340
+Cara Jacqueline, ficamos felizes
+em ter podido viver com você,...
+
+1069
+01:43:07,380 --> 01:43:10,340
+e desejamos boa sorte nos
+andares superiores.
+
+1070
+01:43:10,380 --> 01:43:15,220
+Garantimos que você foi a primeira
+corista da vida de Guido.
+
+1071
+01:43:15,300 --> 01:43:20,230
+É seu direito cantar a última
+canção e dançar a última dança...
+
+1072
+01:43:20,310 --> 01:43:22,230
+com iluminação especial.
+
+1073
+01:43:22,310 --> 01:43:28,230
+Obrigada, garotas! São tão gentis!
+Querem uma canção sentimental?
+
+1074
+01:43:28,320 --> 01:43:31,240
+Não, uma canção sexy, é a
+minha especialidade.
+
+1075
+01:43:31,320 --> 01:43:34,240
+Lembra do Cine Teatro Apollo,
+em Bologna, Guido?
+
+1076
+01:43:34,320 --> 01:43:37,240
+- Sim, lembro!
+- Não, melhor uma canção alegre!
+
+1077
+01:43:45,330 --> 01:43:47,250
+O meu colar quebrou!
+
+1078
+01:43:56,340 --> 01:43:58,300
+De novo!
+
+1079
+01:44:07,390 --> 01:44:09,270
+Não estão nem ouvindo.
+
+1080
+01:44:24,280 --> 01:44:26,240
+Adeus, Guido.
+
+1081
+01:44:56,350 --> 01:44:59,310
+Parecia uma situação
+tão divertida.
+
+1082
+01:44:59,350 --> 01:45:03,270
+Achei que seria a parte mais
+engraçada da história.
+
+1083
+01:45:03,360 --> 01:45:07,280
+Tinha preparado até um discurso
+para fazer à mesa.
+
+1084
+01:45:08,320 --> 01:45:10,280
+Eu teria dito o seguinte...
+
+1085
+01:45:10,320 --> 01:45:15,200
+“Queridas, a felicidade consiste
+em poder dizer a verdade,...
+
+1086
+01:45:15,280 --> 01:45:17,200
+sem nunca fazer
+ninguém sofrer”
+
+1087
+01:45:18,280 --> 01:45:21,200
+Carla ia tocar a harpa, como
+toda a noite...
+
+1088
+01:45:21,290 --> 01:45:24,210
+e seríamos todos felizes,
+escondidos aqui...
+
+1089
+01:45:24,290 --> 01:45:27,210
+longe do mundo, vocês e eu...
+
+1090
+01:45:29,290 --> 01:45:34,220
+O que está errado? Por quê
+esta tristeza?
+
+1091
+01:45:34,300 --> 01:45:38,220
+Viram só? Agora ele ficou
+com remorso!
+
+1092
+01:45:48,350 --> 01:45:53,270
+Imagine, Guido, foi uma noite
+ótima, não fique triste.
+
+1093
+01:45:55,360 --> 01:45:57,230
+Precisa de algo?
+
+1094
+01:46:01,360 --> 01:46:06,240
+Agora todas irão dormir, e eu
+terei muito o que fazer.
+
+1095
+01:46:08,330 --> 01:46:11,250
+A roupa suja acumulou, e preciso
+lavar a louça.
+
+1096
+01:46:12,330 --> 01:46:16,170
+Depois preciso remendar os
+lençóis, limpar o chão,...
+
+1097
+01:46:16,250 --> 01:46:19,170
+e preparar o café para amanhã.
+
+1098
+01:46:26,260 --> 01:46:29,180
+Somos felizes, todos juntos,
+não é?
+
+1099
+01:46:31,260 --> 01:46:38,230
+No começo eu não tinha entendido
+que precisava ser assim.
+
+1100
+01:46:39,270 --> 01:46:42,230
+Mas viu como sou
+boazinha agora?
+
+1101
+01:46:42,320 --> 01:46:46,230
+Não perturbo mais você, não
+pergunto mais nada.
+
+1102
+01:46:49,320 --> 01:46:54,200
+Fui meio cabeça-dura, não? Levei
+20 anos para entender!
+
+1103
+01:46:54,330 --> 01:46:58,200
+20 anos desde que casamos...
+
+1104
+01:47:00,290 --> 01:47:03,210
+e você se tornou meu marido;
+e eu, sua mulher.
+
+1105
+01:47:05,290 --> 01:47:09,210
+Lembra, Guido?
+Lembra daquele dia?
+
+1106
+01:47:11,300 --> 01:47:15,220
+Se você tivesse só um pouco
+mais de paciência, Luisa,...
+
+1107
+01:47:15,300 --> 01:47:18,220
+mas talvez você não
+agüente mais.
+
+1108
+01:47:18,300 --> 01:47:23,220
+Francamente, eu preferiria ter-lhe
+sido útil com algum conselho.
+
+1109
+01:47:23,310 --> 01:47:27,230
+Esta noite, acho que entendi
+que essa sua tarefa...
+
+1110
+01:47:27,310 --> 01:47:29,230
+para mim não tem solução,...
+
+1111
+01:47:29,310 --> 01:47:33,230
+dar um rosto preciso, definitivo,
+a uma multidão de personagens...
+
+1112
+01:47:33,320 --> 01:47:38,280
+que no roteiro são tão indefinidas,
+genéricas, inexistentes...
+
+1113
+01:47:38,320 --> 01:47:42,280
+- A que vamos assistir?
+- Não sei. Testes, acho.
+
+1114
+01:47:42,370 --> 01:47:45,290
+- Você está mal, não é?
+- Não, estou ótima.
+
+1115
+01:47:49,370 --> 01:47:51,250
+Ouça essa, Luisa!
+
+1116
+01:47:52,380 --> 01:47:56,250
+Agosti', faça uma dancinha, eu
+tocarei o piano.
+
+1117
+01:47:57,340 --> 01:48:03,260
+Escute: “O 'eu' solitário que
+orbita e se nutre somente de si,...
+
+1118
+01:48:03,340 --> 01:48:06,260
+acaba sufocado por um grande
+pranto ou um grande riso.”
+
+1119
+01:48:07,350 --> 01:48:10,270
+Stendhal escreveu isto durante
+sua estada na Itália.
+
+1120
+01:48:10,350 --> 01:48:15,230
+Se vocês lessem o embrulho dos
+bombons em vez de jogar fora,...
+
+1121
+01:48:15,270 --> 01:48:17,230
+muitas ilusões seriam evitadas.
+
+1122
+01:48:47,340 --> 01:48:51,260
+Lá está ele. Perto da porta, sempre
+pronto para fugir.
+
+1123
+01:48:55,300 --> 01:49:01,270
+Boa noite, desculpem o atraso.
+Que palhaçada é essa? Guido!
+
+1124
+01:49:01,310 --> 01:49:03,270
+- Estou aqui!
+- Venha sentar aqui.
+
+1125
+01:49:03,310 --> 01:49:07,270
+- Prefiro ficar em cima.
+- As garotas também vão ajudar.
+
+1126
+01:49:07,310 --> 01:49:09,270
+- Vamos, comecem.
+- É pra já, Comendador.
+
+1127
+01:49:09,320 --> 01:49:14,280
+Cancelaram o espetáculo para nos
+ceder a sai. Vamos!
+
+1128
+01:49:15,280 --> 01:49:20,200
+- Meu jovem, precisa decidir.
+- Trouxe todos os testes, até os...
+
+1129
+01:49:20,280 --> 01:49:25,210
+Desculpe, Conocchia, chega de
+brincadeiras, dúvidas, manhas.
+
+1130
+01:49:25,290 --> 01:49:28,250
+Ele teve o tempo que quis, mas
+hoje precisa escolher!
+
+1131
+01:49:28,290 --> 01:49:30,250
+- Estamos aqui para isso.
+- Exato.
+
+1132
+01:49:30,290 --> 01:49:33,250
+Conocchia trouxe todos os testes
+de Roma, velhos e novos...
+
+1133
+01:49:33,340 --> 01:49:38,260
+até os de 5 meses atrás. Agora
+vamos revê-los todos.
+
+1134
+01:49:38,340 --> 01:49:43,220
+Diga quem será a amiga, a mulher,
+o Cardeal, a Saraghina, entendeu?
+
+1135
+01:49:43,350 --> 01:49:47,220
+Não quero me tornar a piada
+do cinema italiano,...
+
+1136
+01:49:47,310 --> 01:49:49,230
+e nem que você se torne!
+
+1137
+01:49:49,310 --> 01:49:53,230
+Todos querem a sua cabeça.
+Restam-lhe poucos amigos...
+
+1138
+01:49:53,310 --> 01:49:58,230
+à esquerda e à direita, mas estou
+aqui para ajudá-lo!
+
+1139
+01:49:58,320 --> 01:50:01,240
+Só que o filme precisa começar,
+e já! Passem os testes!
+
+1140
+01:50:04,320 --> 01:50:07,240
+<i>Teste para a Srta. Olimpia!</i>
+
+1141
+01:50:07,320 --> 01:50:09,240
+<i>Entre, Olimpia.</i>
+
+1142
+01:50:12,330 --> 01:50:15,160
+<i>- Devo fechar?
+- Sim. Ande rebolando.</i>
+
+1143
+01:50:15,250 --> 01:50:19,210
+<i>Rebole essas ancas!
+Deixe essas coisas aí</i>
+
+1144
+01:50:20,250 --> 01:50:22,210
+<i>Agora vá até o espelho.</i>
+
+1145
+01:50:24,260 --> 01:50:28,260
+<i>Olhe-se com aprovação.
+Mais aprovação!</i>
+
+1146
+01:50:29,300 --> 01:50:35,260
+<i>Estufe o peito. isso, agora vá até
+o telefone, bem devagar.</i>
+
+1147
+01:50:35,310 --> 01:50:39,230
+<i>- Não corra assim!
+Não estou correndo.</i>
+
+1148
+01:50:39,270 --> 01:50:42,230
+<i>Fique em cima da marca
+e giz no chão.</i>
+
+1149
+01:50:43,270 --> 01:50:46,230
+<i>- A portaria, por favor.
+Pode falar.</i>
+
+1150
+01:50:46,270 --> 01:50:50,240
+<i>Quero uma garrafa de água
+mineral sem gás.</i>
+
+1151
+01:50:50,280 --> 01:50:53,240
+<i>- Fiuggi então?
+- Não, a Fiuggi tem gás!</i>
+
+1152
+01:50:53,280 --> 01:50:56,240
+<i>Não, senhora. Olhe para cá!
+É a que tem menos gás.</i>
+
+1153
+01:50:56,280 --> 01:50:59,240
+<i>- Então serve a Fiuggi.
+- Essa serve, Guido?</i>
+
+1154
+01:50:59,290 --> 01:51:03,250
+Precisa decidir, porque essa
+vai para a Inglaterra.
+
+1155
+01:51:03,290 --> 01:51:05,250
+- Parte na semana que vem, Guido!
+- E quem é essa aí?
+
+1156
+01:51:05,290 --> 01:51:07,250
+Quieta!
+Ou prefere esta?
+
+1157
+01:51:07,290 --> 01:51:11,250
+Esta personagem precisa ser
+simpática, não é, Guido?
+
+1158
+01:51:12,300 --> 01:51:15,170
+<i>- Festucci.
+- Já entendi, agora suma!</i>
+
+1159
+01:51:15,260 --> 01:51:19,220
+<i>Sente-se aí, com infinito cansaço.
+A personagem não quer mais lutar.</i>
+
+1160
+01:51:19,260 --> 01:51:22,220
+<i>Renunciou a luta porque...
+diga a faia.</i>
+
+1161
+01:51:22,300 --> 01:51:26,230
+<i>- Em seguida?
+- Sim, em seguida.</i>
+
+1162
+01:51:29,310 --> 01:51:32,190
+<i>Sou eu que estou te
+oferecendo a liberdade.</i>
+
+1163
+01:51:32,310 --> 01:51:36,190
+<i>Afinal, assim não sirvo para nada.
+Só incomodo você.</i>
+
+1164
+01:51:36,280 --> 01:51:39,190
+<i>Por favor, pense
+seriamente nisso.</i>
+
+1165
+01:51:39,280 --> 01:51:45,200
+- Quem é essa? Que papel fará?
+- Você não ouviu? É a mulher.
+
+1166
+01:51:49,290 --> 01:51:53,210
+É um tipo simpático, não?
+Espiritual, não acha?
+
+1167
+01:51:53,290 --> 01:51:57,210
+- Dê-me um cigarro.
+- O meu acabou. Enrico, o estoque!
+
+1168
+01:51:57,290 --> 01:51:59,210
+Aqui está.
+
+1169
+01:51:59,290 --> 01:52:04,220
+<i>- Não posso continuar assim.
+- Então diga como eu deveria ser!</i>
+
+1170
+01:52:04,300 --> 01:52:09,220
+<i>Como alguém que não jura em
+falso 10 vezes por dia!</i>
+
+1171
+01:52:09,300 --> 01:52:13,220
+<i>Bastaria isso. O que você
+faz não importa.</i>
+
+1172
+01:52:14,270 --> 01:52:18,190
+<i>É que nunca sei a verdade a seu
+respeito, nem nas menores coisas!</i>
+
+1173
+01:52:19,270 --> 01:52:24,190
+<i>- Luisa, gosto de você.
+- Você mente como respira!</i>
+
+1174
+01:52:24,270 --> 01:52:27,150
+<i>- Repita.
+- Você mente como respira!</i>
+
+1175
+01:52:28,280 --> 01:52:30,150
+Que descarado!
+
+1176
+01:52:34,240 --> 01:52:36,160
+- É a vida dela.
+- Eu sei.
+
+1177
+01:52:36,240 --> 01:52:39,160
+Essa é a princesa!
+Essa aí eu conheço.
+
+1178
+01:52:40,250 --> 01:52:44,170
+<i>Por que, já não estou sozinha? O
+que você me dá? O que é você?</i>
+
+1179
+01:52:45,250 --> 01:52:49,170
+<i>Agora ponha os óculos.
+Repita essa ultima fala.</i>
+
+1180
+01:52:49,250 --> 01:52:55,180
+<i>Fale com agressividade, sim, mas
+também com muita amargura.</i>
+
+1181
+01:52:55,260 --> 01:52:59,180
+<i>Ele disse: “Quer se separar?
+E o que vai fazer sozinha?”</i>
+
+1182
+01:52:59,260 --> 01:53:04,180
+<i>E a senhora responde:
+“E eu já não estou sozinha?</i>
+
+1183
+01:53:04,270 --> 01:53:09,190
+<i>- Vamos lá.
+- Guido, essa aí é perfeita!</i>
+
+1184
+01:53:15,230 --> 01:53:18,190
+Há 5 meses empurramos com
+a barriga assim.
+
+1185
+01:53:18,240 --> 01:53:20,160
+São todas velhas.
+
+1186
+01:53:22,240 --> 01:53:27,160
+<i>- Mas a Fiuggi tem gás.
+- É a que tem menos gás. A vós!</i>
+
+1187
+01:53:27,200 --> 01:53:30,160
+<i>- Então serve a Fiuggi.
+- Ponha no gancho.</i>
+
+1188
+01:53:30,210 --> 01:53:35,170
+<i>- Teste para a Srta. Olimpia!
+- E esta, Guido?</i>
+
+1189
+01:53:35,210 --> 01:53:40,170
+<i>- Seja mais convidativa!
+- É perigoso me deixar sozinha.</i>
+
+1190
+01:53:40,210 --> 01:53:45,180
+<i>- É? Por quê? O que vai fazer?
+- Devo repetir, doutor?</i>
+
+1191
+01:53:45,220 --> 01:53:50,180
+<i>Não, ponha no gancho. Vire a
+cabeça. isso, Olimpiona!</i>
+
+1192
+01:53:51,220 --> 01:53:53,180
+Luisa, aonde vai?
+
+1193
+01:53:53,230 --> 01:53:57,190
+Estou como sono, vou
+para o hotel.
+
+1194
+01:53:57,230 --> 01:54:00,190
+Espere!
+O que houve?
+
+1195
+01:54:00,230 --> 01:54:04,190
+Nada. Nunca acontece nada
+entre nós dois.
+
+1196
+01:54:05,240 --> 01:54:09,240
+Ofendeu-se com alguma coisa
+que viu? É só um filme.
+
+1197
+01:54:09,280 --> 01:54:13,240
+Sei melhor do que ninguém que é só
+um filme, mais uma mentira!
+
+1198
+01:54:13,280 --> 01:54:18,120
+Você colocou todos nele, do seu
+jeito. Mas a verdade é outra!
+
+1199
+01:54:18,250 --> 01:54:23,130
+Só eu a conheço. Sorte sua que
+não tenho a falta de tato...
+
+1200
+01:54:23,210 --> 01:54:28,130
+de contá-la a todos, como você!
+Vamos, faça o seu filme!
+
+1201
+01:54:28,210 --> 01:54:31,130
+- Não, não vou fazer.
+- Regozije-se, acaricie-se!
+
+1202
+01:54:31,220 --> 01:54:34,140
+Faça todos crerem que você
+é maravilhoso!
+
+1203
+01:54:34,220 --> 01:54:36,140
+O que quer ensinar a eles?
+
+1204
+01:54:36,220 --> 01:54:41,140
+Não soube dizer nada verdadeiro a
+quem envelheceu ao seu lado!
+
+1205
+01:54:41,220 --> 01:54:43,140
+Luisa, não seja melodramática!
+
+1206
+01:54:45,230 --> 01:54:50,150
+Você fez bem em me trazer aqui.
+Era preciso haver uma conclusão.
+
+1207
+01:54:50,230 --> 01:54:55,150
+Garanto que não vou mais voltar
+atrás. Vá pro inferno!
+
+1208
+01:55:06,290 --> 01:55:08,210
+<i>Está bem, está bem, corta!</i>
+
+1209
+01:55:08,290 --> 01:55:11,210
+<i>Corra, senhora, mais depressa!
+Corra, corra!</i>
+
+1210
+01:55:11,290 --> 01:55:16,090
+<i>- Ele mandou você correr!
+- Cale a boca, Fred!</i>
+
+1211
+01:55:17,170 --> 01:55:21,130
+<i>Expulsem esse ignorante!
+Agora cante, senhora.</i>
+
+1212
+01:55:22,180 --> 01:55:26,140
+Comendador, posso estar esclerosado,
+mas as contas, não.
+
+1213
+01:55:26,180 --> 01:55:30,140
+Isso, não. Nem pensar! Conocchia,
+está esclerosado!
+
+1214
+01:55:31,180 --> 01:55:35,150
+<i>Saraghina, olhe, trouxemos o
+dinheiro! A rumba!</i>
+
+1215
+01:55:35,190 --> 01:55:39,150
+Guido, quer usar um pouco a
+sua voz, por favor?!
+
+1216
+01:55:41,190 --> 01:55:46,160
+E esta, Guido? Gostei mais
+da anterior.
+
+1217
+01:55:46,200 --> 01:55:50,160
+- É napolitana, não, Conocchia?
+- Não vêem que eu balbucio?
+
+1218
+01:55:52,200 --> 01:55:56,160
+<i>Quando você vem? Eu já
+cansei de esperar.</i>
+
+1219
+01:55:56,210 --> 01:55:58,210
+<i>- Olhe para mim!
+- É perigoso me deixar sozinha.</i>
+
+1220
+01:55:58,240 --> 01:56:00,210
+<i>Vire para cá!</i>
+
+1221
+01:56:00,250 --> 01:56:04,210
+<i>Não me deixe sozinha. Sabe
+que é perigoso, amor.</i>
+
+1222
+01:56:04,250 --> 01:56:05,170
+<i>Olhe para cá!</i>
+
+1223
+01:56:05,260 --> 01:56:08,220
+<i>Por que não vem logo? Está
+me fazendo esperar.</i>
+
+1224
+01:56:08,260 --> 01:56:13,180
+<i>- Sabe que é perigoso.
+- Mais voz, mais voz, mais voz!</i>
+
+1225
+01:56:14,180 --> 01:56:20,100
+<i>- Condessa, ande! Falei para andar.
+- Não me toque com sua mão.</i>
+
+1226
+01:56:23,190 --> 01:56:26,110
+<i>- Vamos trabalhar?
+- Teste para a Sra. Grazia!</i>
+
+1227
+01:56:26,190 --> 01:56:30,110
+<i>Descubra os ombros. Saraghina,
+trouxemos dinheiro!</i>
+
+1228
+01:56:31,190 --> 01:56:33,110
+<i>Corta, foi ótimo.</i>
+
+1229
+01:56:36,200 --> 01:56:39,120
+E a senhora, o que acha?
+
+1230
+01:56:39,200 --> 01:56:42,120
+Vamos, estamos numa democracia! Já
+que ele não fala, falem vocês!
+
+1231
+01:56:42,200 --> 01:56:44,120
+Está chamando você.
+
+1232
+01:56:47,190 --> 01:56:50,421
+Você não pode esconder. Descobrimos que
+de qualquer maneira. Como você está?
+
+1233
+01:56:50,760 --> 01:56:53,752
+Oi, eu sou Poletti,
+da agência de imprensa da Claudia.
+
+1234
+01:56:53,830 --> 01:56:57,027
+Nos conhecemos uns 5 anos atrás.
+Você pode não lembrar de mim ...
+
+1235
+01:56:57,100 --> 01:56:59,762
+- Olha, ela está aqui.
+- Onde?
+
+1236
+01:57:06,442 --> 01:57:07,704
+Desculpe-me.
+
+1237
+01:57:16,230 --> 01:57:18,150
+- Claudia!
+- Como vai?
+
+1238
+01:57:19,240 --> 01:57:23,150
+Bem, e você? finalmente você
+veio. Quer sair?
+
+1239
+01:57:24,240 --> 01:57:28,160
+- Esta é Karoline, minha secretária.
+- Prazer.
+
+1240
+01:57:29,240 --> 01:57:32,160
+- Eu queria conversar a sós.
+- Eu espero aqui.
+
+1241
+01:57:36,250 --> 01:57:39,170
+- Quando começaremos a filmar?
+- Muito breve.
+
+1242
+01:57:39,250 --> 01:57:43,170
+- Qual é o meu papel?
+- Conto tudo depois.
+
+1243
+01:57:43,260 --> 01:57:46,180
+Fico feliz em trabalhar com você.
+Espero ajudá-lo.
+
+1244
+01:57:47,260 --> 01:57:51,220
+Mas quero saber tudo, viu?
+Pra onde iremos?
+
+1245
+01:58:01,310 --> 01:58:04,190
+- Então?
+- Para lá.
+
+1246
+01:58:21,200 --> 01:58:26,130
+Como você é linda. Fico até sem
+jeito, como um adolescente.
+
+1247
+01:58:27,210 --> 01:58:32,130
+Não acredita que transmite um
+respeito verdadeiro, profundo?
+
+1248
+01:58:33,220 --> 01:58:38,140
+Por quem está apaixonada? Com
+quem está? De quem você gosta?
+
+1249
+01:58:38,220 --> 01:58:39,140
+De você.
+
+1250
+01:58:41,220 --> 01:58:43,140
+Você chegou bem a tempo.
+
+1251
+01:58:44,220 --> 01:58:48,190
+Por quê sorri assim? Não se sabe se
+está julgando ou absolvendo...
+
+1252
+01:58:48,230 --> 01:58:51,190
+- se está me gozando...
+- Estou escutando.
+
+1253
+01:58:51,270 --> 01:58:54,190
+Você ia me falar sobre o filme.
+Eu não sei de nada.
+
+1254
+01:59:00,280 --> 01:59:04,160
+Você seria capaz de recomeçar
+a sua vida do início?
+
+1255
+01:59:05,240 --> 01:59:08,160
+Escolher só uma coisa e
+ser fiel a ela...
+
+1256
+01:59:08,250 --> 01:59:11,160
+fazer dela a razão da
+sua existência?
+
+1257
+01:59:11,250 --> 01:59:16,130
+Uma coisa que se torne tudo, pois
+a sua fé a torna assim?
+
+1258
+01:59:19,170 --> 01:59:23,130
+Você seria capaz? Por exemplo,
+se eu dissesse...
+
+1259
+01:59:24,180 --> 01:59:30,140
+Para que lado? Não conheço o
+caminho. E você, seria capaz?
+
+1260
+01:59:31,180 --> 01:59:35,140
+Devemos estar perto da nascente,
+está ouvindo? Vire aqui.
+
+1261
+01:59:37,190 --> 01:59:41,690
+Não, este tipo não é capaz.
+Ele quer ficar com tudo.
+
+1262
+01:59:41,730 --> 01:59:46,190
+Não sabe renunciar a nada.
+Muda todo dia de caminho...
+
+1263
+01:59:46,240 --> 01:59:49,200
+por medo de escolher o errado.
+E está morrendo a mingua.
+
+1264
+01:59:49,240 --> 01:59:51,200
+- E o filme termina assim?
+- Não, começa assim.
+
+1265
+01:59:51,240 --> 01:59:56,160
+Depois ele encontra a garota da
+fonte, uma das que servem água.
+
+1266
+01:59:57,200 --> 02:00:03,170
+Ela é linda. Jovem e antiga,
+menina e já mulher...
+
+1267
+02:00:03,210 --> 02:00:05,170
+autêntica, solar.
+
+1268
+02:00:06,210 --> 02:00:09,170
+Não há dúvida, ela é a
+sua salvação.
+
+1269
+02:00:10,220 --> 02:00:13,180
+Você estará de branco, com esses
+mesmos cabelos longos.
+
+1270
+02:00:24,190 --> 02:00:26,100
+Apague os faróis.
+
+1271
+02:01:04,220 --> 02:01:05,140
+E depois?
+
+1272
+02:01:20,150 --> 02:01:22,110
+Vamos embora daqui.
+
+1273
+02:01:24,150 --> 02:01:28,120
+Este lugar me impressiona.
+Não me parece real.
+
+1274
+02:01:28,160 --> 02:01:31,120
+Pois eu gosto muito dele,
+veja só.
+
+1275
+02:01:34,200 --> 02:01:37,160
+Não entendi quase nada
+dessa sua história.
+
+1276
+02:01:37,210 --> 02:01:42,170
+Um tipo como o que você descreveu
+que não ama ninguém,...
+
+1277
+02:01:42,210 --> 02:01:44,130
+não causa muita pena, sabia?
+
+1278
+02:01:46,170 --> 02:01:49,130
+No fundo, a culpa é dele. O que
+ele espera dos outros?
+
+1279
+02:01:50,180 --> 02:01:55,140
+Acha que não sei disso?
+Você também é chatinha!
+
+1280
+02:01:56,180 --> 02:01:59,140
+Você não agüenta críticas,
+não é?
+
+1281
+02:01:59,180 --> 02:02:03,140
+Está engraçado com esse
+chapelão de velho!
+
+1282
+02:02:06,190 --> 02:02:11,150
+Não entendo. Ele acha a garota que
+pode devolver-lhe a vida...
+
+1283
+02:02:11,190 --> 02:02:14,150
+- e a rejeita?
+- Porque não acredita mais.
+
+1284
+02:02:16,160 --> 02:02:20,080
+- Porque não sabe amar.
+- A mulher não faz o homem.
+
+1285
+02:02:20,160 --> 02:02:22,080
+Porque não sabe amar.
+
+1286
+02:02:22,160 --> 02:02:26,120
+E sobretudo porque não quero
+outra história mentirosa.
+
+1287
+02:02:26,160 --> 02:02:28,120
+Porque não sabe amar.
+
+1288
+02:02:29,170 --> 02:02:34,130
+Lamento ter feito você vir até
+aqui. Peço desculpas.
+
+1289
+02:02:34,210 --> 02:02:39,090
+Que salafrário você é! Então
+esse papel não existe?
+
+1290
+02:02:39,220 --> 02:02:44,100
+Você tem razão. O papel não
+existe. Nem o filme existe.
+
+1291
+02:02:44,180 --> 02:02:47,100
+Não existe nada em
+parte alguma.
+
+1292
+02:02:48,180 --> 02:02:51,100
+Para mim, o caso poderia se
+encerrar aqui.
+
+1293
+02:02:57,190 --> 02:02:59,110
+Lá está ele!
+
+1294
+02:02:59,190 --> 02:03:03,110
+Todos o procuram! Começamos na
+semana que vem, sabia?
+
+1295
+02:03:03,200 --> 02:03:09,120
+A maior festa de inauguração que
+um filme já teve! Sabe onde?
+
+1296
+02:03:09,200 --> 02:03:12,120
+Na espaçonave! Amanhã à tarde,
+com toda a imprensa mundial.
+
+1297
+02:03:12,200 --> 02:03:15,040
+Vamos começar de verdade,
+Guido!
+
+1298
+02:03:39,140 --> 02:03:41,060
+Segure-o!
+
+1299
+02:03:48,150 --> 02:03:51,070
+- Vamos, ande!
+- Quero ir para a casa.
+
+1300
+02:03:51,150 --> 02:03:54,070
+- Não banque a criança, vamos!
+- Ele chegou!
+
+1301
+02:03:58,160 --> 02:04:00,080
+Guido, bem-vindo!
+
+1302
+02:04:02,160 --> 02:04:04,080
+Aonde vai? É aqui!
+
+1303
+02:04:10,170 --> 02:04:13,090
+Sei que hoje o senhor fará
+um lindo discurso!
+
+1304
+02:04:19,140 --> 02:04:23,100
+Estou curioso para ouvir a sua
+história, finalmente!
+
+1305
+02:04:23,140 --> 02:04:27,060
+Não se toma a sério demais,
+Sr. Anselmi?
+
+1306
+02:04:27,140 --> 02:04:30,060
+- É a favor do erotismo na arte?
+- O que acha da alienação?
+
+1307
+02:04:33,110 --> 02:04:36,070
+Soltem-me!
+Eu sei andar sozinho!
+
+1308
+02:04:41,110 --> 02:04:43,070
+Olá! Boa sorte!
+
+1309
+02:04:44,120 --> 02:04:48,080
+Aqui está ele, Comendador!
+
+1310
+02:04:48,120 --> 02:04:52,080
+O senhor tem medo da bomba?
+Acredita em Deus?
+
+1311
+02:04:52,120 --> 02:04:56,080
+Estamos esperando você há 3 dias,
+o inverno já começou!
+
+1312
+02:05:11,140 --> 02:05:14,140
+Por quê nunca faz história
+de amor?
+
+1313
+02:05:14,180 --> 02:05:16,060
+Amanhã eu faço!
+
+1314
+02:05:31,110 --> 02:05:35,030
+- O que o fracasso pode ensinar?
+- Acha a sua vida interessante?
+
+1315
+02:05:35,120 --> 02:05:38,040
+Pode afirmar honestamente que
+não tem nada a dizer?
+
+1316
+02:05:38,120 --> 02:05:40,040
+O seu filme é sobre um
+impotente!
+
+1317
+02:05:40,120 --> 02:05:43,040
+Ele está perdido! Não tem
+nada a dizer!
+
+1318
+02:05:44,120 --> 02:05:48,050
+Agora ele vai lhes falar, dizer
+qual é a nova mensagem...
+
+1319
+02:05:49,130 --> 02:05:53,050
+Responda, diga algo, coragem!
+
+1320
+02:05:54,130 --> 02:05:59,050
+Guido, diga qualquer coisa!
+Faça isso por mim.
+
+1321
+02:06:01,140 --> 02:06:07,060
+Se libertar com o filme, como
+se sustentará depois?
+
+1322
+02:06:07,140 --> 02:06:09,060
+É a favor ou contra o divórcio?
+
+1323
+02:06:09,150 --> 02:06:14,110
+A falta de comunicação é um
+problema, ou um pretexto?
+
+1324
+02:06:15,110 --> 02:06:21,030
+São perguntas hostis. Garanto que
+meu diretor está em forma!
+
+1325
+02:06:21,070 --> 02:06:23,030
+O que se deve fazer afinal?
+
+1326
+02:06:25,080 --> 02:06:28,040
+Conocchia, desculpe se
+tratei você mal.
+
+1327
+02:06:28,080 --> 02:06:31,040
+Você foi ótimo, o melhor de todos.
+
+1328
+02:06:31,080 --> 02:06:34,040
+Ele medita, pondera, reflete!
+
+1329
+02:06:34,080 --> 02:06:37,050
+Responda! Eu comprei a sua
+desordem, a sua crise!
+
+1330
+02:06:37,090 --> 02:06:41,050
+Pago tudo há meses! Se não fizer
+o filme, arruinarei você!
+
+1331
+02:06:41,090 --> 02:06:45,050
+Agora ele vai responder, os
+jornalistas sempre foram...
+
+1332
+02:06:45,090 --> 02:06:48,050
+Claudia, onde está você? E os
+seus espíritos, Rosselia?
+
+1333
+02:06:49,100 --> 02:06:54,060
+O que devo fazer, me afastar? Você
+não será mais o mesmo.
+
+1334
+02:06:54,100 --> 02:06:58,060
+Não serei mais sua mulher. Quando
+vai casar mesmo comigo?
+
+1335
+02:06:58,100 --> 02:07:02,070
+Luisa, quer mesmo se separar
+de mim, me deixar?
+
+1336
+02:07:02,110 --> 02:07:05,070
+Como posso continuar
+assim até o final?
+
+1337
+02:07:10,160 --> 02:07:17,040
+Está no bolso direito, doutor.
+Pus no bolso direito!
+
+1338
+02:07:26,130 --> 02:07:32,090
+Isso, não! Isso não é permitido a
+ninguém! Seu palhaço, histérico!
+
+1339
+02:07:32,130 --> 02:07:35,090
+Saia daí, seu imaturo!
+
+1340
+02:07:35,140 --> 02:07:38,100
+Um momento! Estou pensando
+no que vou dizer.
+
+1341
+02:07:38,140 --> 02:07:41,100
+Sim, é isso mesmo!
+Eu já vou.
+
+1342
+02:07:45,140 --> 02:07:47,100
+Que romântico incurável!
+
+1343
+02:07:49,150 --> 02:07:54,110
+Guido! Para onde está correndo,
+desgraçado?
+
+1344
+02:08:12,210 --> 02:08:17,050
+Desmontem tudo. Não haverá mais
+filme. Vocês têm dois dias!
+
+1345
+02:08:17,130 --> 02:08:21,050
+Comecem já. Mãos à obra.
+Derrubem tudo. Não é, doutor?
+
+1346
+02:08:22,140 --> 02:08:25,050
+Sim, obrigado. Até o próximo
+filme, rapazes.
+
+1347
+02:08:25,140 --> 02:08:27,060
+Queira Deus!
+
+1348
+02:08:31,140 --> 02:08:33,060
+Tchau, marinheiro.
+
+1349
+02:08:38,150 --> 02:08:42,070
+ó senhor fez muito bem. Acredite,
+hoje é um bom dia para o Senhor.
+
+1350
+02:08:42,150 --> 02:08:46,070
+São decisões dolorosas, eu sei,
+mas nós, intelectuais...
+
+1351
+02:08:46,160 --> 02:08:49,070
+pois eu também o considero um,...
+
+1352
+02:08:49,160 --> 02:08:52,080
+temos o dever de permanecer
+lúcidos até o fim.
+
+1353
+02:08:52,160 --> 02:08:57,080
+Já há coisas supérfluas demais no
+mundo, mais desordem é inútil.
+
+1354
+02:08:59,170 --> 02:09:02,130
+Perder dinheiro faz parte do
+oficio de produtor.
+
+1355
+02:09:04,210 --> 02:09:08,130
+Alegre-se, não há o que fazer.
+Ele teve o que merecia...
+
+1356
+02:09:08,220 --> 02:09:13,100
+por ter entrado tão levianamente
+numa aventura tão pouco séria.
+
+1357
+02:09:14,140 --> 02:09:17,020
+Não sinta saudade
+nem remorso.
+
+1358
+02:09:17,100 --> 02:09:21,020
+Destruir é melhor do que criar,
+quando não se cria o essencial.
+
+1359
+02:09:22,100 --> 02:09:27,020
+Será que há algo tão claro e justo
+no mundo que mereça viver?
+
+1360
+02:09:28,110 --> 02:09:31,030
+Para ele, um filme fracassado é
+só um fato econômico...
+
+1361
+02:09:31,110 --> 02:09:35,030
+mas para o senhor, ao ponto em
+que chegou, podia ser o fim.
+
+1362
+02:09:35,120 --> 02:09:39,030
+É melhor derrubar tudo e
+espalhar sai em cima,...
+
+1363
+02:09:39,120 --> 02:09:42,040
+como se fazia para purificar
+os campos de batalha!
+
+1364
+02:09:42,120 --> 02:09:46,040
+No fundo, só precisaríamos de
+um pouco de higiene...
+
+1365
+02:09:46,120 --> 02:09:49,040
+de limpeza, de desinfetante!
+
+1366
+02:09:49,130 --> 02:09:52,050
+Estamos sufocados por palavras,
+por imagens...
+
+1367
+02:09:52,130 --> 02:09:55,090
+por sons que não têm
+razão de ser,...
+
+1368
+02:09:55,130 --> 02:09:59,090
+que saem do nada e se
+dirigem para o nada!
+
+1369
+02:09:59,180 --> 02:10:02,100
+A um artista que realmente
+seja de tal nome,...
+
+1370
+02:10:02,180 --> 02:10:06,060
+só se devia pedir a lealdade de
+educar-se para o silêncio.
+
+1371
+02:10:06,180 --> 02:10:11,060
+Lembra do elogio de Mallarmé à
+página em branco? E de Rimbaud?
+
+1372
+02:10:13,150 --> 02:10:16,020
+Estamos prontos para começar!
+Bom dia, senhor.
+
+1373
+02:10:19,070 --> 02:10:23,030
+- Meus mais sinceros parabéns!
+- Se não se pode ter o todo...
+
+1374
+02:10:23,070 --> 02:10:25,030
+o nada é a verdadeira
+perfeição.
+
+1375
+02:10:25,070 --> 02:10:30,040
+Perdoe tantas citações, mas nós,
+críticos, fazemos o que podemos.
+
+1376
+02:10:30,080 --> 02:10:35,040
+A nossa verdadeira missão é varrer
+os milhares de abortos...
+
+1377
+02:10:35,080 --> 02:10:39,040
+que todo dia tentam obscenamente
+vir ao mundo.
+
+1378
+02:10:39,090 --> 02:10:44,050
+E o senhor pretendia deixar atrás
+de si todo um filme,...
+
+1379
+02:10:44,090 --> 02:10:48,050
+como o aleijado deixa no chão
+a sua pegada disforme?
+
+1380
+02:10:49,090 --> 02:10:51,060
+Que presunção monstruosa,...
+
+1381
+02:10:51,100 --> 02:10:56,100
+achar que seria útil a alguém o
+esquálido catálogo dos seus erros!
+
+1382
+02:10:56,140 --> 02:11:01,060
+E de que lhe adiantaria unir
+os farrapos da sua vida,...
+
+1383
+02:11:01,150 --> 02:11:06,070
+suas vagas lembranças, os rostos
+daqueles que nunca soube amar?
+
+1384
+02:11:14,120 --> 02:11:19,000
+<i>O que é esta faísca de felicidade
+que me faz tremer, me dá forças?</i>
+
+1385
+02:11:20,080 --> 02:11:25,000
+<i>Desculpem, doces criaturas, eu
+não tinha entendido, não sabia...</i>
+
+1386
+02:11:25,080 --> 02:11:30,000
+<i>como é justo aceitar, amar vocês,
+e como é simples!</i>
+
+1387
+02:11:30,090 --> 02:11:34,010
+<i>Luisa, sinto-me como
+que libertado.</i>
+
+1388
+02:11:34,090 --> 02:11:38,010
+<i>Tudo me parece bom, tudo tem
+um sentido, tudo é real!</i>
+
+1389
+02:11:38,090 --> 02:11:42,020
+<i>Como eu gostaria de saber
+explicar, mas não sei dizer.</i>
+
+1390
+02:11:44,100 --> 02:11:48,060
+<i>Pronto, tudo está de novo como
+antes, tudo está confuso.</i>
+
+1391
+02:11:48,100 --> 02:11:51,060
+<i>- Mas está confusão sou eu.
+- Todas as luzes!</i>
+
+1392
+02:11:51,150 --> 02:11:55,030
+<i>Eu como eu sou, e não como eu
+queria ser, e não tenho medo...</i>
+
+1393
+02:11:55,150 --> 02:12:00,030
+<i>de dizer a verdade, aquilo que
+não sei, que procuro e não achei.</i>
+
+1394
+02:12:01,110 --> 02:12:06,040
+<i>Só assim vivo, e posso olhar teus
+olhos fiéis sem sentir vergonha.</i>
+
+1395
+02:12:06,120 --> 02:12:10,040
+<i>A vida é uma festa, vamos
+vivê-la juntos.</i>
+
+1396
+02:12:11,120 --> 02:12:16,000
+<i>Só sei dizer isto, Luisa, a você e
+aos outros. Aceite-me, se puder.</i>
+
+1397
+02:12:16,040 --> 02:12:19,000
+<i>Só assim poderemos
+tentar nos encontrar.</i>
+
+1398
+02:12:20,050 --> 02:12:26,010
+Não sei se o que disse está certo,
+mas posso tentar, se me ajudar.
+
+1399
+02:12:43,110 --> 02:12:46,070
+Que bom, vocês voltaram!
+Venham.
+
+1400
+02:13:26,060 --> 02:13:27,980
+Um momento, deixem que
+eu dou o sinal!
+
+1401
+02:13:38,070 --> 02:13:41,030
+Agora!
+Dirija-se para a tenda.
+
+1402
+02:13:51,080 --> 02:13:52,000
+Abram!
+
+1403
+02:13:54,090 --> 02:13:59,010
+Desçam todos! Desçam
+conversando, vamos!
+
+1404
+02:14:39,080 --> 02:14:40,960
+Todos no palanque!
+
+1405
+02:14:59,060 --> 02:15:03,980
+Entendi. Você quer dizer que não
+vive sem nós. Telefonará amanhã?
+
+1406
+02:15:04,060 --> 02:15:07,980
+Sim, mas agora faça fila com
+os outros. Maurice!
+
+1407
+02:15:12,070 --> 02:15:16,950
+Depressa, Carla! Vamos, todos
+dêem as mãos!
+
+1408
+02:15:17,990 --> 02:15:21,950
+Espalhem-se!
+Todos juntos, vamos!
+
+1409
+02:15:23,000 --> 02:15:28,000
+- Maestro!
+- Todos de mãos dadas, vamos!
+
